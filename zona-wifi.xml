@@ -1,0 +1,1931 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<directorios rdfa="true" rdfa-class="http://www.geonames.org/ontology#Feature">
+<directorio rdfa-id="http://www.gijon.es/directorios/show/10331-alpee-departamento-de-orientacion-laboral" tipo="Servicios Municipales,Zona Wifi,Administración,Comunicaciones">
+  <url>http://www.gijon.es/directorios/show/10331-alpee-departamento-de-orientacion-laboral</url>
+  <identificador>10331</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2015-07-08 10:18:15 +0200</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f5/51069/130x108_v1_c130x108_v1_c130x108_v1_agenciaLocalEmpleo.jpeg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">ALPEE - Departamento de Orientación Laboral</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 181 557</telefono>
+  <fax>985 181 562</fax>
+  <correo-electronico>opea@gijon.es</correo-electronico>
+  <web>http://empleo.gijon.es</web>
+  <horario>Lunes a Viernes: 9:00-14:00h.</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>C/ Avelino González Mallada, 27 - 33204 - Gijón</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.532956 -5.648196</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">C/ Avelino González Mallada, 27 - 33204 - Gijón</direccion>
+  <categorias>
+    <categoria id="98" rdfa-property="http://purl.org/dc/terms/subject">Servicios Municipales</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="92" rdfa-property="http://purl.org/dc/terms/subject">Administración</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9848-alpee-agencia-de-colocacion-0300000029" tipo="Servicios Municipales,Zona Wifi,Administración,Comunicaciones">
+  <url>http://www.gijon.es/directorios/show/9848-alpee-agencia-de-colocacion-0300000029</url>
+  <identificador>9848</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2015-01-13 14:32:04 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f6/62372/130x108_v1_c130x108_v1_c130x108_v1_agenciaLocalEmpleo.jpeg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">ALPEE - Agencia de Colocación 0300000029</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 181 557 / 985 181 741 (empresas)</telefono>
+  <fax>985 181 562</fax>
+  <correo-electronico>candidaturaagenciacolocacion@gijon.es - ofertasagenciacolocacion@gijon.es</correo-electronico>
+  <web>http://empleo.gijon.es</web>
+  <horario>Lunes a Viernes: 09:00 - 14:00 h.</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>C/ Avelino González Mallada, 27 - Planta Baja - 33204</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location"></localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">C/ Avelino González Mallada, 27 - Planta Baja - 33204</direccion>
+  <categorias>
+    <categoria id="98" rdfa-property="http://purl.org/dc/terms/subject">Servicios Municipales</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="92" rdfa-property="http://purl.org/dc/terms/subject">Administración</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9845-alpee-agencia-de-activacion-juvenil" tipo="Servicios Municipales,Zona Wifi,Administración,Comunicaciones">
+  <url>http://www.gijon.es/directorios/show/9845-alpee-agencia-de-activacion-juvenil</url>
+  <identificador>9845</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2015-01-13 12:30:20 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f6/62372/130x108_v1_c130x108_v1_c130x108_v1_agenciaLocalEmpleo.jpeg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">ALPEE - Agencia de Activación Juvenil</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 181 557</telefono>
+  <fax>985 181 562</fax>
+  <correo-electronico>agenciadeactivacion@gijon.es</correo-electronico>
+  <web>http://agenciadeactivacion.gijon.es</web>
+  <horario>Lunes a Viernes: 09:00 - 14:00 h.</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">La Agencia de Activación Juvenil es una experiencia piloto que se pone en marcha 
+en la ciudad de Gijón con el apoyo económico de la Unión Europea.</descripcion>
+  <direccion>C/ Avelino González Mallada, 27 - Planta Baja - 33204</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location"></localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">C/ Avelino González Mallada, 27 - Planta Baja - 33204</direccion>
+  <categorias>
+    <categoria id="98" rdfa-property="http://purl.org/dc/terms/subject">Servicios Municipales</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="92" rdfa-property="http://purl.org/dc/terms/subject">Administración</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9674-campo-valdes" tipo="Zona Wifi,Comunicaciones">
+  <url>http://www.gijon.es/directorios/show/9674-campo-valdes</url>
+  <identificador>9674</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:30 +0100</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Campo Valdés</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion/>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.545462 -5.661285</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address"></direccion>
+  <categorias>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9673-parque-calle-torner-viesques" tipo="Zona Wifi,Comunicaciones">
+  <url>http://www.gijon.es/directorios/show/9673-parque-calle-torner-viesques</url>
+  <identificador>9673</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:30 +0100</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Parque Calle Torner (Viesques)</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion/>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.530685 -5.645578</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address"></direccion>
+  <categorias>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9672-parque-severo-ochoa" tipo="Zona Wifi,Comunicaciones">
+  <url>http://www.gijon.es/directorios/show/9672-parque-severo-ochoa</url>
+  <identificador>9672</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:30 +0100</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Parque Severo Ochoa</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion/>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.528638 -5.672754</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address"></direccion>
+  <categorias>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9671-ateneo-obrero-de-la-calzada" tipo="Zona Wifi,Comunicaciones">
+  <url>http://www.gijon.es/directorios/show/9671-ateneo-obrero-de-la-calzada</url>
+  <identificador>9671</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:30 +0100</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Ateneo Obrero de La Calzada</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion/>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.539434 -5.694711</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address"></direccion>
+  <categorias>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9670-el-cerillero-fernando-vi" tipo="Zona Wifi,Comunicaciones">
+  <url>http://www.gijon.es/directorios/show/9670-el-cerillero-fernando-vi</url>
+  <identificador>9670</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:30 +0100</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">El Cerillero (Fernando VI)</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion/>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.5399 -5.703406</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address"></direccion>
+  <categorias>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9669-policia-local-hermanos-felgueroso" tipo="Zona Wifi,Boleras,Escuelas Infantiles,Sindicatos,Estaciones de Servicio,Bares y cafés,Edificios y lugares de interés,Puerto deportivo,Saboreando - Restaurantes y sidrerías,Repostería,Comunicaciones,Deporte,Educación,Otros,Movilidad,Turismo">
+  <url>http://www.gijon.es/directorios/show/9669-policia-local-hermanos-felgueroso</url>
+  <identificador>9669</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-03-11 14:42:19 +0100</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Policía Local (Hermanos Felgueroso)</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion/>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.535187 -5.658587</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address"></direccion>
+  <categorias>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="393" rdfa-property="http://purl.org/dc/terms/subject">Boleras</categoria>
+    <categoria id="402" rdfa-property="http://purl.org/dc/terms/subject">Escuelas Infantiles</categoria>
+    <categoria id="418" rdfa-property="http://purl.org/dc/terms/subject">Sindicatos</categoria>
+    <categoria id="441" rdfa-property="http://purl.org/dc/terms/subject">Estaciones de Servicio</categoria>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="933" rdfa-property="http://purl.org/dc/terms/subject">Edificios y lugares de interés</categoria>
+    <categoria id="945" rdfa-property="http://purl.org/dc/terms/subject">Puerto deportivo</categoria>
+    <categoria id="955" rdfa-property="http://purl.org/dc/terms/subject">Saboreando - Restaurantes y sidrerías</categoria>
+    <categoria id="963" rdfa-property="http://purl.org/dc/terms/subject">Repostería</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="192" rdfa-property="http://purl.org/dc/terms/subject">Deporte</categoria>
+    <categoria id="2" rdfa-property="http://purl.org/dc/terms/subject">Educación</categoria>
+    <categoria id="194" rdfa-property="http://purl.org/dc/terms/subject">Otros</categoria>
+    <categoria id="198" rdfa-property="http://purl.org/dc/terms/subject">Movilidad</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9668-parque-de-la-serena" tipo="Zona Wifi,Boleras,Escuelas Infantiles,Sindicatos,Estaciones de Servicio,Bares y cafés,Edificios y lugares de interés,Puerto deportivo,Saboreando - Restaurantes y sidrerías,Comunicaciones,Deporte,Educación,Otros,Movilidad,Turismo">
+  <url>http://www.gijon.es/directorios/show/9668-parque-de-la-serena</url>
+  <identificador>9668</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-03-11 14:43:39 +0100</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Parque de La Serena</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion/>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.530505 -5.664557</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address"></direccion>
+  <categorias>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="393" rdfa-property="http://purl.org/dc/terms/subject">Boleras</categoria>
+    <categoria id="402" rdfa-property="http://purl.org/dc/terms/subject">Escuelas Infantiles</categoria>
+    <categoria id="418" rdfa-property="http://purl.org/dc/terms/subject">Sindicatos</categoria>
+    <categoria id="441" rdfa-property="http://purl.org/dc/terms/subject">Estaciones de Servicio</categoria>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="933" rdfa-property="http://purl.org/dc/terms/subject">Edificios y lugares de interés</categoria>
+    <categoria id="945" rdfa-property="http://purl.org/dc/terms/subject">Puerto deportivo</categoria>
+    <categoria id="955" rdfa-property="http://purl.org/dc/terms/subject">Saboreando - Restaurantes y sidrerías</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="192" rdfa-property="http://purl.org/dc/terms/subject">Deporte</categoria>
+    <categoria id="2" rdfa-property="http://purl.org/dc/terms/subject">Educación</categoria>
+    <categoria id="194" rdfa-property="http://purl.org/dc/terms/subject">Otros</categoria>
+    <categoria id="198" rdfa-property="http://purl.org/dc/terms/subject">Movilidad</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9667-playa-de-san-lorenzo-piles" tipo="Zona Wifi,Boleras,Escuelas Infantiles,Sindicatos,Estaciones de Servicio,Bares y cafés,Edificios y lugares de interés,Puerto deportivo,Comunicaciones,Deporte,Educación,Otros,Movilidad,Turismo">
+  <url>http://www.gijon.es/directorios/show/9667-playa-de-san-lorenzo-piles</url>
+  <identificador>9667</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-03-11 14:41:08 +0100</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Playa de San Lorenzo (Piles)</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion/>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.540398 -5.646737</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address"></direccion>
+  <categorias>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="393" rdfa-property="http://purl.org/dc/terms/subject">Boleras</categoria>
+    <categoria id="402" rdfa-property="http://purl.org/dc/terms/subject">Escuelas Infantiles</categoria>
+    <categoria id="418" rdfa-property="http://purl.org/dc/terms/subject">Sindicatos</categoria>
+    <categoria id="441" rdfa-property="http://purl.org/dc/terms/subject">Estaciones de Servicio</categoria>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="933" rdfa-property="http://purl.org/dc/terms/subject">Edificios y lugares de interés</categoria>
+    <categoria id="945" rdfa-property="http://purl.org/dc/terms/subject">Puerto deportivo</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="192" rdfa-property="http://purl.org/dc/terms/subject">Deporte</categoria>
+    <categoria id="2" rdfa-property="http://purl.org/dc/terms/subject">Educación</categoria>
+    <categoria id="194" rdfa-property="http://purl.org/dc/terms/subject">Otros</categoria>
+    <categoria id="198" rdfa-property="http://purl.org/dc/terms/subject">Movilidad</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9666-playa-de-san-lorenzo-nautico" tipo="Zona Wifi,Boleras,Escuelas Infantiles,Sindicatos,Estaciones de Servicio,Bares y cafés,Edificios y lugares de interés,Comunicaciones,Deporte,Educación,Otros,Movilidad,Turismo">
+  <url>http://www.gijon.es/directorios/show/9666-playa-de-san-lorenzo-nautico</url>
+  <identificador>9666</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-03-11 14:40:26 +0100</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Playa de San Lorenzo (Naútico)</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion/>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.542731 -5.660169</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address"></direccion>
+  <categorias>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="393" rdfa-property="http://purl.org/dc/terms/subject">Boleras</categoria>
+    <categoria id="402" rdfa-property="http://purl.org/dc/terms/subject">Escuelas Infantiles</categoria>
+    <categoria id="418" rdfa-property="http://purl.org/dc/terms/subject">Sindicatos</categoria>
+    <categoria id="441" rdfa-property="http://purl.org/dc/terms/subject">Estaciones de Servicio</categoria>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="933" rdfa-property="http://purl.org/dc/terms/subject">Edificios y lugares de interés</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="192" rdfa-property="http://purl.org/dc/terms/subject">Deporte</categoria>
+    <categoria id="2" rdfa-property="http://purl.org/dc/terms/subject">Educación</categoria>
+    <categoria id="194" rdfa-property="http://purl.org/dc/terms/subject">Otros</categoria>
+    <categoria id="198" rdfa-property="http://purl.org/dc/terms/subject">Movilidad</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9665-plaza-del-humedal" tipo="Zona Wifi,Boleras,Escuelas Infantiles,Sindicatos,Estaciones de Servicio,Bares y cafés,Comunicaciones,Deporte,Educación,Otros,Movilidad,Turismo">
+  <url>http://www.gijon.es/directorios/show/9665-plaza-del-humedal</url>
+  <identificador>9665</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-03-11 14:39:05 +0100</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Plaza del Humedal</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion/>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.539628 -5.665979</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address"></direccion>
+  <categorias>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="393" rdfa-property="http://purl.org/dc/terms/subject">Boleras</categoria>
+    <categoria id="402" rdfa-property="http://purl.org/dc/terms/subject">Escuelas Infantiles</categoria>
+    <categoria id="418" rdfa-property="http://purl.org/dc/terms/subject">Sindicatos</categoria>
+    <categoria id="441" rdfa-property="http://purl.org/dc/terms/subject">Estaciones de Servicio</categoria>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="192" rdfa-property="http://purl.org/dc/terms/subject">Deporte</categoria>
+    <categoria id="2" rdfa-property="http://purl.org/dc/terms/subject">Educación</categoria>
+    <categoria id="194" rdfa-property="http://purl.org/dc/terms/subject">Otros</categoria>
+    <categoria id="198" rdfa-property="http://purl.org/dc/terms/subject">Movilidad</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9664-acuario-de-gijon" tipo="Zona Wifi,Boleras,Comunicaciones,Deporte">
+  <url>http://www.gijon.es/directorios/show/9664-acuario-de-gijon</url>
+  <identificador>9664</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-04-22 15:06:50 +0200</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Acuario de Gijón</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion/>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.542327 -5.675061</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address"></direccion>
+  <categorias>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="393" rdfa-property="http://purl.org/dc/terms/subject">Boleras</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="192" rdfa-property="http://purl.org/dc/terms/subject">Deporte</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9662-puerto-de-vegarada" tipo="Zona Wifi,Boleras,Escuelas Infantiles,Sindicatos,Estaciones de Servicio,Comunicaciones,Deporte,Educación,Otros,Movilidad">
+  <url>http://www.gijon.es/directorios/show/9662-puerto-de-vegarada</url>
+  <identificador>9662</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-03-11 14:41:54 +0100</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Puerto de Vegarada</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion/>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.532372 -5.67903</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address"></direccion>
+  <categorias>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="393" rdfa-property="http://purl.org/dc/terms/subject">Boleras</categoria>
+    <categoria id="402" rdfa-property="http://purl.org/dc/terms/subject">Escuelas Infantiles</categoria>
+    <categoria id="418" rdfa-property="http://purl.org/dc/terms/subject">Sindicatos</categoria>
+    <categoria id="441" rdfa-property="http://purl.org/dc/terms/subject">Estaciones de Servicio</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="192" rdfa-property="http://purl.org/dc/terms/subject">Deporte</categoria>
+    <categoria id="2" rdfa-property="http://purl.org/dc/terms/subject">Educación</categoria>
+    <categoria id="194" rdfa-property="http://purl.org/dc/terms/subject">Otros</categoria>
+    <categoria id="198" rdfa-property="http://purl.org/dc/terms/subject">Movilidad</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9661-ramon-areces" tipo="Zona Wifi,Boleras,Escuelas Infantiles,Sindicatos,Estaciones de Servicio,Comunicaciones,Deporte,Educación,Otros,Movilidad">
+  <url>http://www.gijon.es/directorios/show/9661-ramon-areces</url>
+  <identificador>9661</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-03-11 14:44:00 +0100</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Ramón Areces</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion/>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.522368 -5.676101</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address"></direccion>
+  <categorias>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="393" rdfa-property="http://purl.org/dc/terms/subject">Boleras</categoria>
+    <categoria id="402" rdfa-property="http://purl.org/dc/terms/subject">Escuelas Infantiles</categoria>
+    <categoria id="418" rdfa-property="http://purl.org/dc/terms/subject">Sindicatos</categoria>
+    <categoria id="441" rdfa-property="http://purl.org/dc/terms/subject">Estaciones de Servicio</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="192" rdfa-property="http://purl.org/dc/terms/subject">Deporte</categoria>
+    <categoria id="2" rdfa-property="http://purl.org/dc/terms/subject">Educación</categoria>
+    <categoria id="194" rdfa-property="http://purl.org/dc/terms/subject">Otros</categoria>
+    <categoria id="198" rdfa-property="http://purl.org/dc/terms/subject">Movilidad</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9660-ramon-areces" tipo="Zona Wifi,Boleras,Escuelas Infantiles,Sindicatos,Comunicaciones,Deporte,Educación,Otros">
+  <url>http://www.gijon.es/directorios/show/9660-ramon-areces</url>
+  <identificador>9660</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-03-11 14:44:22 +0100</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Ramón Areces</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion/>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.521419 -5.672582</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address"></direccion>
+  <categorias>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="393" rdfa-property="http://purl.org/dc/terms/subject">Boleras</categoria>
+    <categoria id="402" rdfa-property="http://purl.org/dc/terms/subject">Escuelas Infantiles</categoria>
+    <categoria id="418" rdfa-property="http://purl.org/dc/terms/subject">Sindicatos</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="192" rdfa-property="http://purl.org/dc/terms/subject">Deporte</categoria>
+    <categoria id="2" rdfa-property="http://purl.org/dc/terms/subject">Educación</categoria>
+    <categoria id="194" rdfa-property="http://purl.org/dc/terms/subject">Otros</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9659-parque-de-las-palmeras" tipo="Zona Wifi,Boleras,Escuelas Infantiles,Sindicatos,Comunicaciones,Deporte,Educación,Otros">
+  <url>http://www.gijon.es/directorios/show/9659-parque-de-las-palmeras</url>
+  <identificador>9659</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:30 +0100</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Parque de Las Palmeras</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion/>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.521139 -5.667465</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address"></direccion>
+  <categorias>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="393" rdfa-property="http://purl.org/dc/terms/subject">Boleras</categoria>
+    <categoria id="402" rdfa-property="http://purl.org/dc/terms/subject">Escuelas Infantiles</categoria>
+    <categoria id="418" rdfa-property="http://purl.org/dc/terms/subject">Sindicatos</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="192" rdfa-property="http://purl.org/dc/terms/subject">Deporte</categoria>
+    <categoria id="2" rdfa-property="http://purl.org/dc/terms/subject">Educación</categoria>
+    <categoria id="194" rdfa-property="http://purl.org/dc/terms/subject">Otros</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9658-piscina-del-llano" tipo="Zona Wifi,Boleras,Escuelas Infantiles,Comunicaciones,Deporte,Educación">
+  <url>http://www.gijon.es/directorios/show/9658-piscina-del-llano</url>
+  <identificador>9658</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:29 +0100</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Piscina del Llano</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion/>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.527891 -5.659032</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address"></direccion>
+  <categorias>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="393" rdfa-property="http://purl.org/dc/terms/subject">Boleras</categoria>
+    <categoria id="402" rdfa-property="http://purl.org/dc/terms/subject">Escuelas Infantiles</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="192" rdfa-property="http://purl.org/dc/terms/subject">Deporte</categoria>
+    <categoria id="2" rdfa-property="http://purl.org/dc/terms/subject">Educación</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9657-institutos-perez-de-ayala" tipo="Zona Wifi,Boleras,Comunicaciones,Deporte">
+  <url>http://www.gijon.es/directorios/show/9657-institutos-perez-de-ayala</url>
+  <identificador>9657</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:29 +0100</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Institutos Pérez de Ayala</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion/>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.533118 -5.668838</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address"></direccion>
+  <categorias>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="393" rdfa-property="http://purl.org/dc/terms/subject">Boleras</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="192" rdfa-property="http://purl.org/dc/terms/subject">Deporte</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9656-puerta-la-villa" tipo="Zona Wifi,Comunicaciones">
+  <url>http://www.gijon.es/directorios/show/9656-puerta-la-villa</url>
+  <identificador>9656</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:29 +0100</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Puerta La Villa</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion/>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.538189 -5.663774</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address"></direccion>
+  <categorias>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9655-parque-de-begona" tipo="Zona Wifi,Boleras,Comunicaciones,Deporte">
+  <url>http://www.gijon.es/directorios/show/9655-parque-de-begona</url>
+  <identificador>9655</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:29 +0100</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Parque de Begoña</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion/>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.53836 -5.660738</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address"></direccion>
+  <categorias>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="393" rdfa-property="http://purl.org/dc/terms/subject">Boleras</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="192" rdfa-property="http://purl.org/dc/terms/subject">Deporte</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9654-plaza-san-miguel" tipo="Zona Wifi,Comunicaciones">
+  <url>http://www.gijon.es/directorios/show/9654-plaza-san-miguel</url>
+  <identificador>9654</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-04-24 13:59:45 +0200</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Plaza San Miguel</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">Recibe su nombre del militar y político asturiano Evaristo San Miguel y Valledor (1785-1862), autor de la letra del &amp;quot;Himno de Riego&amp;quot; en 1820.&lt;br/&gt;La plaza se sitúa en uno de los vértices de la antigua muralla, levantada en 1837, cuando la ciudad fue declarada plaza fuerte durante la primera guerra carlista. Sus muros se unían en este mismo espacio, formando uno de los baluartes de la fortificación.&lt;br/&gt;&lt;br/&gt;En el último cuarto del siglo XIX, el Estado cedió los terrenos que permitirían a la ciudad proyectarse fuera del recinto amurallado. Comenzaba así el  ensanche del arenal de San Lorenzo, que daría como resultado el nacimeineto del popular &amp;quot;Barriu L' Arena&amp;quot;.&lt;br/&gt;&lt;br/&gt;Historicismo, art-decó, modernismo y racionalismo son los estilos que caracterizan a los edificios que rodean a la plaza.&lt;br/&gt;&lt;br/&gt;Llamada popularmente La Plazuela. De forma ovalada, sirve de rótula entre el Gijón moderno y el del ensanche.&lt;br/&gt;&lt;br/&gt;Busto erigido en recuerdo de Evaristo San Miguel y Valledor, héroe de la Guerra de la Independencia.</descripcion>
+  <direccion/>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.539527 -5.657728</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address"></direccion>
+  <categorias>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9653-aparcamiento-del-puerto-deportivo" tipo="Zona Wifi,Boleras,Comunicaciones,Deporte">
+  <url>http://www.gijon.es/directorios/show/9653-aparcamiento-del-puerto-deportivo</url>
+  <identificador>9653</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:29 +0100</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Aparcamiento del Puerto Deportivo</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion/>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.544007 -5.666993</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address"></direccion>
+  <categorias>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="393" rdfa-property="http://purl.org/dc/terms/subject">Boleras</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="192" rdfa-property="http://purl.org/dc/terms/subject">Deporte</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9652-jardines-de-la-reina-y-plaza-del-marques" tipo="Zona Wifi,Comunicaciones">
+  <url>http://www.gijon.es/directorios/show/9652-jardines-de-la-reina-y-plaza-del-marques</url>
+  <identificador>9652</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:29 +0100</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Jardines de la Reina y Plaza del Marqués</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion/>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.54508 -5.664042</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address"></direccion>
+  <categorias>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9651-parque-de-la-fabrica-del-gas" tipo="Zona Wifi,Boleras,Escuelas Infantiles,Comunicaciones,Deporte,Educación">
+  <url>http://www.gijon.es/directorios/show/9651-parque-de-la-fabrica-del-gas</url>
+  <identificador>9651</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:29 +0100</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Parque de la Fábrica del Gas</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion/>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.539179 -5.650985</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address"></direccion>
+  <categorias>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="393" rdfa-property="http://purl.org/dc/terms/subject">Boleras</categoria>
+    <categoria id="402" rdfa-property="http://purl.org/dc/terms/subject">Escuelas Infantiles</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="192" rdfa-property="http://purl.org/dc/terms/subject">Deporte</categoria>
+    <categoria id="2" rdfa-property="http://purl.org/dc/terms/subject">Educación</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9650-plaza-de-la-republica-en-el-coto" tipo="Zona Wifi,Boleras,Comunicaciones,Deporte">
+  <url>http://www.gijon.es/directorios/show/9650-plaza-de-la-republica-en-el-coto</url>
+  <identificador>9650</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:29 +0100</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Plaza de la República en El Coto</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion/>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.533846 -5.6487</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address"></direccion>
+  <categorias>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="393" rdfa-property="http://purl.org/dc/terms/subject">Boleras</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="192" rdfa-property="http://purl.org/dc/terms/subject">Deporte</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9629-alpee-servicio-de-promocion-desarrollo-e-innovacion" tipo="Servicios Municipales,Zona Wifi,Administración,Comunicaciones">
+  <url>http://www.gijon.es/directorios/show/9629-alpee-servicio-de-promocion-desarrollo-e-innovacion</url>
+  <identificador>9629</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:29 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f4/40485/130x108_v1_c130x108_v1_agenciaLocalEmpleo.jpeg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">ALPEE - Servicio de Promoción, Desarrollo e Innovación</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 181 555</telefono>
+  <fax>985 181 562</fax>
+  <correo-electronico>agencialocal@gijon.es</correo-electronico>
+  <web>http://empleo.gijon.es</web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>c/ Avelino González Mallada nº 27, 33204 Gijón</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location"></localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Agencia Local de Promoción Económica y Empleo - ALPEE - c/ Avelino González Mallada nº 27, 33204 Gijón</direccion>
+  <categorias>
+    <categoria id="98" rdfa-property="http://purl.org/dc/terms/subject">Servicios Municipales</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="155" rdfa-property="http://purl.org/dc/terms/subject">Empleo</categoria>
+    <categoria id="2174" rdfa-property="http://purl.org/dc/terms/subject">Empleo y promoción económica</categoria>
+    <categoria id="92" rdfa-property="http://purl.org/dc/terms/subject">Administración</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9603-alpee-coordinacion-planes-de-empleo" tipo="Servicios Municipales,Zona Wifi,Administración,Comunicaciones">
+  <url>http://www.gijon.es/directorios/show/9603-alpee-coordinacion-planes-de-empleo</url>
+  <identificador>9603</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:28 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f5/51069/130x108_v1_c130x108_v1_c130x108_v1_agenciaLocalEmpleo.jpeg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">ALPEE - Coordinación Planes de Empleo </nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 181 558/59</telefono>
+  <fax>985 181 594</fax>
+  <correo-electronico>inserta@gijon.es</correo-electronico>
+  <web>../../../</web>
+  <horario>Lunes a Viernes: 09:00 - 14:00 h.</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>C/ Avelino González Mallada, 27 - Planta Primera - 33204</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location"></localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Agencia Local de Promoción Económica y Empleo- Alpee - C/ Avelino González Mallada, 27 - Planta Primera - 33204</direccion>
+  <categorias>
+    <categoria id="98" rdfa-property="http://purl.org/dc/terms/subject">Servicios Municipales</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="92" rdfa-property="http://purl.org/dc/terms/subject">Administración</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9551-alpee-servicio-de-orientacion-formacion-y-empleo" tipo="Servicios Municipales,Zona Wifi,Administración,Comunicaciones">
+  <url>http://www.gijon.es/directorios/show/9551-alpee-servicio-de-orientacion-formacion-y-empleo</url>
+  <identificador>9551</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:26 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f4/40485/130x108_v1_c130x108_v1_agenciaLocalEmpleo.jpeg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">ALPEE. Servicio de Orientación, Formación y Empleo</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 181 555</telefono>
+  <fax>985 181 594</fax>
+  <correo-electronico>agencialocal@gijon.es</correo-electronico>
+  <web>../../../</web>
+  <horario>Lunes a Viernes: 9:00 - 14:00h.</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>C/ Avelino González Mallada, 27 - Planta Primera - 33204</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.53262 -5.651929</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Agencia Local de Promoción Económica y Empleo- Alpee - C/ Avelino González Mallada, 27 - 33204 - Gijón - C/ Avelino González Mallada, 27 - Planta Primera - 33204</direccion>
+  <categorias>
+    <categoria id="98" rdfa-property="http://purl.org/dc/terms/subject">Servicios Municipales</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="92" rdfa-property="http://purl.org/dc/terms/subject">Administración</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="155" rdfa-property="http://purl.org/dc/terms/subject">Empleo</categoria>
+    <categoria id="2174" rdfa-property="http://purl.org/dc/terms/subject">Empleo y promoción económica</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9351-alpee-seccion-de-promocion-del-empleo" tipo="Servicios Municipales,Zona Wifi,Administración,Comunicaciones">
+  <url>http://www.gijon.es/directorios/show/9351-alpee-seccion-de-promocion-del-empleo</url>
+  <identificador>9351</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:19 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f4/40485/130x108_v1_c130x108_v1_agenciaLocalEmpleo.jpeg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">ALPEE - Sección de Promoción del Empleo</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 181 564/ 985 181 567/ 985 181 569/ 985 181 570/ 985 181 579/ 985 181 686</telefono>
+  <fax>985 181 562</fax>
+  <correo-electronico>secretariatecnica.alpee@gijon.es</correo-electronico>
+  <web>http://empleo.gijon.es</web>
+  <horario>Lunes a Viernes: 09:00 - 14:00 h.</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>C/ Avelino González Mallada, 27 - Planta Primera - 33204</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location"></localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Agencia Local de Promoción Económica y Empleo- Alpee - C/ Avelino González Mallada, 27 - Planta Primera - 33204</direccion>
+  <categorias>
+    <categoria id="98" rdfa-property="http://purl.org/dc/terms/subject">Servicios Municipales</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="92" rdfa-property="http://purl.org/dc/terms/subject">Administración</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9333-alpee-departamento-de-innovacion-para-el-empleo" tipo="Servicios Municipales,Zona Wifi,Administración,Comunicaciones">
+  <url>http://www.gijon.es/directorios/show/9333-alpee-departamento-de-innovacion-para-el-empleo</url>
+  <identificador>9333</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:19 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f4/40485/130x108_v1_c130x108_v1_agenciaLocalEmpleo.jpeg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">ALPEE - Departamento de Innovación para el Empleo</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 181 563/ 985 181 593/ 985 181 573/ 985 181 572/ 985 181 574</telefono>
+  <fax>985 181 562</fax>
+  <correo-electronico>nuevosproyectos@gijon.es</correo-electronico>
+  <web>../../../</web>
+  <horario>Lunes a Viernes: 09:00 - 14:00 h.</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">El Departamento de Innovación para el Empleo de la Agencia Local de Promoción Económica y Empleo del Ayuntamiento de Gijón se encarga de coordinar y gestionar las siguientes actuaciones:&lt;br/&gt;&lt;br/&gt;- Observatorio Socioeconómico Local&lt;br/&gt;- Formulación de nuevos proyectos e iniciativas y obtención de financiación a nivel regional, nacional o europea&lt;br/&gt;- Gestión de iniciativas innovadoras de empleo&lt;br/&gt;- Seguimiento y Evaluación del Acuerdo Gijón mÁs 2012-2015&lt;br/&gt;- Gestión de la comunicación de la Agencia: portal web &lt;a href="http://empleo.gijon.es" title="Ir a http://empleo.gijon.es" rel="external"&gt;http://empleo.gijon.es&lt;/a&gt;; perfil de facebook &lt;a href="http://www.facebook.com/EmpleoGijon" title="Ir a http://www.facebook.com/EmpleoGijon" rel="external"&gt;http://www.facebook.com/EmpleoGijon&lt;/a&gt; y perfil de twitter &lt;a href="http://twitter.com/@empleo_gijon" title="Ir a http://twitter.com/@empleo_gijon" rel="external"&gt;@empleo_gijon&lt;/a&gt;&lt;br/&gt;- Representación de la Agencia en el Foro de Desarrollo Económico de Eurocities y en la Red RETOS de Territorios Socialmente Responsables</descripcion>
+  <direccion>C/ Avelino González Mallada, 27 - Planta Primera - 33204</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location"></localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">C/ Avelino González Mallada, 27 - Planta Primera - 33204</direccion>
+  <categorias>
+    <categoria id="98" rdfa-property="http://purl.org/dc/terms/subject">Servicios Municipales</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="92" rdfa-property="http://purl.org/dc/terms/subject">Administración</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9329-alpee-departamento-de-formacion" tipo="Servicios Municipales,Zona Wifi,Administración,Comunicaciones">
+  <url>http://www.gijon.es/directorios/show/9329-alpee-departamento-de-formacion</url>
+  <identificador>9329</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:19 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f4/40485/130x108_v1_c130x108_v1_agenciaLocalEmpleo.jpeg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">ALPEE - Departamento de Formación</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 181 601/985 181 687/688</telefono>
+  <fax>985 181 594</fax>
+  <correo-electronico>formacion.alpee@gijon.es</correo-electronico>
+  <web>http://empleo.gijon.es</web>
+  <horario>Lunes a Viernes: 09:00 - 14:00 h.</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>C/ Avelino González Mallada, 27 - Planta Primera - 33204</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.53271 -5.649413</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">C/ Avelino González Mallada, 27 - Planta Primera - 33204</direccion>
+  <categorias>
+    <categoria id="98" rdfa-property="http://purl.org/dc/terms/subject">Servicios Municipales</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="92" rdfa-property="http://purl.org/dc/terms/subject">Administración</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/6869-centro-de-cultura-de-roces-alfonso-camin-biblioteca-de-roces" tipo="Cajeros Ciudadanos,Edificios Municipales,Servicios Municipales,Mediatecas,Zona Wifi,Bibliotecas,Lineas de autobuses urbanos,Cajeros de transporte emtusa,Administración,Comunicaciones,Cultura y Ocio,Movilidad">
+  <url>http://www.gijon.es/directorios/show/6869-centro-de-cultura-de-roces-alfonso-camin-biblioteca-de-roces</url>
+  <identificador>6869</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:05:04 +0100</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Centro de Cultura de Roces Alfonso Camin (Biblioteca de Roces)</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 181 692</telefono>
+  <fax/>
+  <correo-electronico>bibliotecaroces@gijon.es</correo-electronico>
+  <web>http://www.gijon.es
+http://www.bibliotecaspublicas.es/redgijon/index.jsp</web>
+  <horario>&lt;p&gt;Lunes a viernes de 9.00 a 14.00 h y de 16.00 a 20.00 h&lt;/p&gt;</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">Ofrece diversos servicios y dispone de diferentes equipamientos tales como:&lt;br/&gt;Salón polivalente(con capacidad para 90 personas), Fonoteca e Información, asesoramiento y recursos para las asociaciones y colectivos del barrio. Biblioteca: Sala de lectura, Sección infantil y juvenil, Sección adultos, Prensa y revistas, Préstamo de libros, discos, revistas, cd-rom, vídeo y dvd, Información bibliográfica y de referencia, &lt;br/&gt;Préstamo interbibliotecario y Catálogo colectivo. Red Municipal. Mediateca (4 Puestos): Acceso gratuito a Internet y Cursos de información digital.</descripcion>
+  <direccion>Avda. Salvador Allende, 13</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.518957 -5.683378</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Avda. Salvador Allende, 13</direccion>
+  <categorias>
+    <categoria id="94" rdfa-property="http://purl.org/dc/terms/subject">Cajeros Ciudadanos</categoria>
+    <categoria id="93" rdfa-property="http://purl.org/dc/terms/subject">Edificios Municipales</categoria>
+    <categoria id="98" rdfa-property="http://purl.org/dc/terms/subject">Servicios Municipales</categoria>
+    <categoria id="200" rdfa-property="http://purl.org/dc/terms/subject">Mediatecas</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="186" rdfa-property="http://purl.org/dc/terms/subject">Bibliotecas</categoria>
+    <categoria id="444" rdfa-property="http://purl.org/dc/terms/subject">Lineas de autobuses urbanos</categoria>
+    <categoria id="512" rdfa-property="http://purl.org/dc/terms/subject">Cajeros de transporte emtusa</categoria>
+    <categoria id="92" rdfa-property="http://purl.org/dc/terms/subject">Administración</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="185" rdfa-property="http://purl.org/dc/terms/subject">Cultura y Ocio</categoria>
+    <categoria id="198" rdfa-property="http://purl.org/dc/terms/subject">Movilidad</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/6868-centro-municipal-de-contrueces-biblioteca-de-contrueces" tipo="Cajeros Ciudadanos,Edificios Municipales,Servicios Municipales,Mediatecas,Zona Wifi,Bibliotecas,Sala de Exposiciones,Cajeros de transporte emtusa,Administración,Comunicaciones,Cultura y Ocio,Movilidad">
+  <url>http://www.gijon.es/directorios/show/6868-centro-municipal-de-contrueces-biblioteca-de-contrueces</url>
+  <identificador>6868</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2015-05-12 13:28:07 +0200</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Centro Municipal de Contrueces (Biblioteca de Contrueces)</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 185 114</telefono>
+  <fax/>
+  <correo-electronico>bibliotecacontrueces@gijon.es</correo-electronico>
+  <web>http://www.gijon.es
+http://www.bibliotecaspublicas.es/redgijon/index.jsp</web>
+  <horario>Lunes a viernes de 9.00 a 20.00 h</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">&lt;p&gt;&lt;strong&gt;Biblioteca:&lt;/strong&gt; Sala de lectura. Sección adultos (18 puestos). Prensa y revistas (18 puestos). Sección infantil y juvenil (18 puestos). Bebeteca. Sección Asturiana. Centros de interés: Cómic. Préstamo de libros, discos, revistas, cd-rom, vídeo y dvd. Préstamo interbibliotecario. Información bibliográfica y de referencia. Actividades de animación a la lectura: Bebé cuentos, La hora de los cuentos, Club de lectura, Programa de formación en el uso de la biblioteca para escolares. Consulta Catálogo Colectivo de la Red de Bibliotecas del Principado de Asturias. Consulta Red Municipal de Bibliotecas&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mediateca:&lt;/strong&gt; 13 puestos. Acceso gratuito a internet y cursos de formación digital&lt;/p&gt;
+&lt;p&gt;2 &lt;strong&gt;aulas &lt;/strong&gt;polivalentes. Información, asesoramiento y recursos para las asociaciones y colectivos del barrio.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cajero ciudadano&lt;/strong&gt;&lt;/p&gt;</descripcion>
+  <direccion>C/ Rio Nalón, 2</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.521928 -5.664131</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">C/ Rio Nalón, 2</direccion>
+  <categorias>
+    <categoria id="94" rdfa-property="http://purl.org/dc/terms/subject">Cajeros Ciudadanos</categoria>
+    <categoria id="93" rdfa-property="http://purl.org/dc/terms/subject">Edificios Municipales</categoria>
+    <categoria id="98" rdfa-property="http://purl.org/dc/terms/subject">Servicios Municipales</categoria>
+    <categoria id="200" rdfa-property="http://purl.org/dc/terms/subject">Mediatecas</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="186" rdfa-property="http://purl.org/dc/terms/subject">Bibliotecas</categoria>
+    <categoria id="201" rdfa-property="http://purl.org/dc/terms/subject">Sala de Exposiciones</categoria>
+    <categoria id="512" rdfa-property="http://purl.org/dc/terms/subject">Cajeros de transporte emtusa</categoria>
+    <categoria id="92" rdfa-property="http://purl.org/dc/terms/subject">Administración</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="185" rdfa-property="http://purl.org/dc/terms/subject">Cultura y Ocio</categoria>
+    <categoria id="198" rdfa-property="http://purl.org/dc/terms/subject">Movilidad</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/6809-alpee-escuela-de-segunda-oportunidad-e2o" tipo="Servicios Municipales,Zona Wifi,Administración,Comunicaciones">
+  <url>http://www.gijon.es/directorios/show/6809-alpee-escuela-de-segunda-oportunidad-e2o</url>
+  <identificador>6809</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-05-07 10:38:02 +0200</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f4/40485/130x108_v1_c130x108_v1_agenciaLocalEmpleo.jpeg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">ALPEE. Escuela de Segunda Oportunidad - E2O</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 181 799/985 181 798</telefono>
+  <fax/>
+  <correo-electronico>escuelasegundaoportunidad.alpee@gijon.es</correo-electronico>
+  <web>http://empleo.gijon.es</web>
+  <horario>Lunes a jueves: 9:00 a 19:30 h. Viernes: 9:00 a 14.00 h.</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Avelino González Mallada, 27 planta semisótano - 33204 - Gijón</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location"></localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Avelino González Mallada, 27 planta semisótano - 33204 - Gijón</direccion>
+  <categorias>
+    <categoria id="98" rdfa-property="http://purl.org/dc/terms/subject">Servicios Municipales</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="92" rdfa-property="http://purl.org/dc/terms/subject">Administración</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/3443-centro-municipal-integrado-de-el-llano" tipo="Servicio Atención al Ciudadano,Edificios Municipales,Cajeros Ciudadanos,Servicios Municipales,Servicios Sociales,Mediatecas,Zona Wifi,Ludotecas,Bibliotecas,Teatro,Sala de Exposiciones,Otros Espacios Deportivos,Pabellones,Piscinas Municipales,Pistas Polideportivas,Aparcamientos,Establecimientos de Recarga del Monedero Transporte,Lineas de autobuses urbanos,Museos y salas de exposiciones,Centros culturales,Teatros,Aseos públicos,Administración,Comunicaciones,Cultura y Ocio,Deporte,Movilidad,Turismo">
+  <url>http://www.gijon.es/directorios/show/3443-centro-municipal-integrado-de-el-llano</url>
+  <identificador>3443</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2015-10-28 11:56:51 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f4/42473/1776x846_v1_ElLlanoPG.JPG</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Centro Municipal Integrado de El Llano</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 185 240</telefono>
+  <fax>985 185 244</fax>
+  <correo-electronico>cmillano@gijon.es</correo-electronico>
+  <web>http://www.gijon.es</web>
+  <horario>Lunes a Sábado de 8.00 a 22.00 horas. Domingos de 8.00 a 15.00 horas. Cajero: 24h</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">&lt;p align="justify"&gt;Es el equipamiento más moderno de la red de centros integrados. Fue inaugurado en el año 2007 tras seguir, en su diseño, las pautas sobre equipamientos de proximidad publicadas en los estudios de la fundación Kaleidos.Red, de la que le ayuntamiento de Gijón fue patrono fundador. Se situa en una área de reciente crecimiento y reforma urbana y atiende a una extensa zona muy poblada con los recursos más modernos, por ejemplo una gran ludoteca. Aunque ofrece servicios deportivos en su gran sala polivalente, no tiene una zona deportiva propiamente dicha pues, al otro lado de la calle, comparte espacio con una de las zona mejor equipadas, en instalaciones deportivas, de Gijón.&lt;/p&gt;&lt;p align="justify"&gt;Dispone de: oficina de atención al ciudadano, Servicios Sociales, concejalía de distrito, salón de actos, sala de exposiciones, ludoteca, sala polivalente, aulas, taller de cocina, sala de estudio (120 puestos), biblioteca, mediateca y cajero ciudadano.&lt;/p&gt;&lt;p align="center"&gt;&lt;img src="/data/images/f0/f4/42473/700x333_v1_ElLlanoPG.JPG" alt="Fachada centro de El Llano" class="nicedit_sin-alinear magnify" height="333" width="700" width="700" height="333"/&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p style="font-weight: bold;"&gt;&lt;a href="http://issuu.com/agendasdeloscentrosintegrados/docs/red_de_centros_municipales_integrad" title="Ir a http://issuu.com/agendasdeloscentrosintegrados/docs/red_de_centros_municipales_integrad" rel="external"&gt;Espacios en el centro municipal integrado de El Llano (ver espacios).&lt;/a&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style="text-align: center;"&gt;Espacio&lt;br/&gt;&lt;/th&gt;&lt;th style="text-align: center;"&gt;Puestos y aforo&lt;br/&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Salón de Actos&lt;br/&gt;&lt;/td&gt;&lt;td style="text-align: right;"&gt;156&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Aulas 1 y 2&lt;br/&gt;&lt;/td&gt;&lt;td style="text-align: right;"&gt;18&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Aulas 3 y 4&lt;br/&gt;&lt;/td&gt;&lt;td style="text-align: right;"&gt;36&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Aula de cocina&lt;br/&gt;&lt;/td&gt;&lt;td style="text-align: right;"&gt;16&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sala Polivalente&lt;br/&gt;&lt;/td&gt;&lt;td style="text-align: right;"&gt;350 m2&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sala de estudio&lt;br/&gt;&lt;/td&gt;&lt;td style="text-align: right;"&gt;120&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Biblioteca&lt;br/&gt;&lt;/td&gt;&lt;td style="text-align: right;"&gt;Adultos:43&lt;br/&gt;Infantil:12&lt;br/&gt;Lectura de prensa:24&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Mediateca&lt;br/&gt;&lt;/td&gt;&lt;td style="text-align: right;"&gt;16&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sala de exposiciones &lt;br/&gt;(Los patios interiores están &lt;br/&gt;habilitados para exponer)&lt;br/&gt;&lt;/td&gt;&lt;td style="text-align: right;"&gt;26 metros lineales&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sala de reuniones (1 y 2)&lt;br/&gt;&lt;/td&gt;&lt;td style="text-align: right;"&gt;10 y 14&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="vertical-align: top;"&gt;Ludoteca&lt;br/&gt;&lt;/td&gt;&lt;td style="vertical-align: top; text-align: right;"&gt;40&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</descripcion>
+  <direccion>Calle Río de Oro, 37</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location"></localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Calle Río de Oro, 37</direccion>
+  <categorias>
+    <categoria id="97" rdfa-property="http://purl.org/dc/terms/subject">Servicio Atención al Ciudadano</categoria>
+    <categoria id="93" rdfa-property="http://purl.org/dc/terms/subject">Edificios Municipales</categoria>
+    <categoria id="94" rdfa-property="http://purl.org/dc/terms/subject">Cajeros Ciudadanos</categoria>
+    <categoria id="98" rdfa-property="http://purl.org/dc/terms/subject">Servicios Municipales</categoria>
+    <categoria id="99" rdfa-property="http://purl.org/dc/terms/subject">Servicios Sociales</categoria>
+    <categoria id="200" rdfa-property="http://purl.org/dc/terms/subject">Mediatecas</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="390" rdfa-property="http://purl.org/dc/terms/subject">Ludotecas</categoria>
+    <categoria id="186" rdfa-property="http://purl.org/dc/terms/subject">Bibliotecas</categoria>
+    <categoria id="190" rdfa-property="http://purl.org/dc/terms/subject">Teatro</categoria>
+    <categoria id="201" rdfa-property="http://purl.org/dc/terms/subject">Sala de Exposiciones</categoria>
+    <categoria id="397" rdfa-property="http://purl.org/dc/terms/subject">Otros Espacios Deportivos</categoria>
+    <categoria id="398" rdfa-property="http://purl.org/dc/terms/subject">Pabellones</categoria>
+    <categoria id="399" rdfa-property="http://purl.org/dc/terms/subject">Piscinas Municipales</categoria>
+    <categoria id="400" rdfa-property="http://purl.org/dc/terms/subject">Pistas Polideportivas</categoria>
+    <categoria id="439" rdfa-property="http://purl.org/dc/terms/subject">Aparcamientos</categoria>
+    <categoria id="440" rdfa-property="http://purl.org/dc/terms/subject">Establecimientos de Recarga del Monedero Transporte</categoria>
+    <categoria id="444" rdfa-property="http://purl.org/dc/terms/subject">Lineas de autobuses urbanos</categoria>
+    <categoria id="931" rdfa-property="http://purl.org/dc/terms/subject">Museos y salas de exposiciones</categoria>
+    <categoria id="932" rdfa-property="http://purl.org/dc/terms/subject">Centros culturales</categoria>
+    <categoria id="938" rdfa-property="http://purl.org/dc/terms/subject">Teatros</categoria>
+    <categoria id="947" rdfa-property="http://purl.org/dc/terms/subject">Aseos públicos</categoria>
+    <categoria id="1233" rdfa-property="http://purl.org/dc/terms/subject">Otras salas de congresos</categoria>
+    <categoria id="92" rdfa-property="http://purl.org/dc/terms/subject">Administración</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="185" rdfa-property="http://purl.org/dc/terms/subject">Cultura y Ocio</categoria>
+    <categoria id="192" rdfa-property="http://purl.org/dc/terms/subject">Deporte</categoria>
+    <categoria id="198" rdfa-property="http://purl.org/dc/terms/subject">Movilidad</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/1828-oficina-de-atencion-al-ciudadano-en-el-edificio-administrativo-antiguo-hogar-casa-rosada" tipo="Servicios Municipales,Cajeros Ciudadanos,Mediatecas,Zona Wifi,Servicio Atención al Ciudadano,Administración,Comunicaciones">
+  <url>http://www.gijon.es/directorios/show/1828-oficina-de-atencion-al-ciudadano-en-el-edificio-administrativo-antiguo-hogar-casa-rosada</url>
+  <identificador>1828</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2015-05-12 13:38:28 +0200</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Oficina de Atención al Ciudadano en el Edificio Administrativo Antiguo Hogar (Casa Rosada)</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">984491960</telefono>
+  <fax>984 491 963</fax>
+  <correo-electronico></correo-electronico>
+  <web>http://www.gijon.es</web>
+  <horario>&lt;p sizset="0" sizcache="1480"&gt;&lt;span&gt;Lunes a viernes: de 8:3&lt;/span&gt;&lt;span&gt;0 a 17:00 h. Julio y Agosto: Lunes a viernes: de 8:30 a14:00 h. Cajero: 24h&lt;/span&gt;&lt;/p&gt;</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Paseo de la Infancia, 2</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.538233 -5.665955</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Paseo de la Infancia, 2</direccion>
+  <categorias>
+    <categoria id="98" rdfa-property="http://purl.org/dc/terms/subject">Servicios Municipales</categoria>
+    <categoria id="94" rdfa-property="http://purl.org/dc/terms/subject">Cajeros Ciudadanos</categoria>
+    <categoria id="200" rdfa-property="http://purl.org/dc/terms/subject">Mediatecas</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="97" rdfa-property="http://purl.org/dc/terms/subject">Servicio Atención al Ciudadano</categoria>
+    <categoria id="92" rdfa-property="http://purl.org/dc/terms/subject">Administración</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/1345-servicio-de-sistemas-de-informacion" tipo="Servicios Municipales,Zona Wifi,Administración,Comunicaciones">
+  <url>http://www.gijon.es/directorios/show/1345-servicio-de-sistemas-de-informacion</url>
+  <identificador>1345</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2015-05-12 13:10:28 +0200</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f6/6978/202x303_v1_Directorioedificiosmunicipalesinfor.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Servicio de Sistemas de Información</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 181 192</telefono>
+  <fax>985 175 120</fax>
+  <correo-electronico>soporte@gijon.es</correo-electronico>
+  <web></web>
+  <horario>Cita previa</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Plaza Mayor, 9</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.545161 -5.662701</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Plaza Mayor, 9</direccion>
+  <categorias>
+    <categoria id="98" rdfa-property="http://purl.org/dc/terms/subject">Servicios Municipales</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="92" rdfa-property="http://purl.org/dc/terms/subject">Administración</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/1267-policia-local-centralita" tipo="Policía,Servicios Municipales,Zona Wifi,Seguridad,Administración,Comunicaciones,Seguridad Ciudadana,Turismo">
+  <url>http://www.gijon.es/directorios/show/1267-policia-local-centralita</url>
+  <identificador>1267</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-09-01 15:23:36 +0200</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f6/6921/250x188_v1_Directorioserviciosmunicipalespolicialocal-centralita.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Policía Local/Centralita</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 181 100 ,  092</telefono>
+  <fax>985 181 534</fax>
+  <correo-electronico></correo-electronico>
+  <web>http://www.gijon.es</web>
+  <horario>Abierto 24h.</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>C/San José, 2</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.535219 -5.658692</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">C/San José, 2</direccion>
+  <categorias>
+    <categoria id="431" rdfa-property="http://purl.org/dc/terms/subject">Policía</categoria>
+    <categoria id="98" rdfa-property="http://purl.org/dc/terms/subject">Servicios Municipales</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="930" rdfa-property="http://purl.org/dc/terms/subject">Seguridad</categoria>
+    <categoria id="92" rdfa-property="http://purl.org/dc/terms/subject">Administración</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="197" rdfa-property="http://purl.org/dc/terms/subject">Seguridad Ciudadana</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+    <categoria id="2897" rdfa-property="http://purl.org/dc/terms/subject">Gijón con Calidad</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/1248-plaza-del-instituto" tipo="Parques y Jardines,Zona Wifi,Comunicaciones,Medio Ambiente">
+  <url>http://www.gijon.es/directorios/show/1248-plaza-del-instituto</url>
+  <identificador>1248</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2015-05-12 13:53:43 +0200</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Plaza del Instituto</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">La más importante de las de Gijón. Conocida popularmente como El Parchís, por la semejanza de la disposición en planta de sus parterres con ese juego de mesa. Punto de reunión, segregado, de pensionistas y adolescentes.</descripcion>
+  <direccion>Plaza del Instituto</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.541409 -5.661615</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Plaza del Instituto</direccion>
+  <categorias>
+    <categoria id="415" rdfa-property="http://purl.org/dc/terms/subject">Parques y Jardines</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="193" rdfa-property="http://purl.org/dc/terms/subject">Medio Ambiente</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/1112-parque-las-palmeras" tipo="Parques y Jardines,Zona Wifi,Comunicaciones,Medio Ambiente">
+  <url>http://www.gijon.es/directorios/show/1112-parque-las-palmeras</url>
+  <identificador>1112</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2015-05-12 13:48:19 +0200</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Parque Las Palmeras</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>C/Río Nalón</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.521248 -5.666644</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">C/Río Nalón</direccion>
+  <categorias>
+    <categoria id="415" rdfa-property="http://purl.org/dc/terms/subject">Parques y Jardines</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="193" rdfa-property="http://purl.org/dc/terms/subject">Medio Ambiente</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/1106-parque-de-isabel-la-catolica" tipo="Parques y Jardines,Edificios y lugares de interés,Puerto deportivo,Zona Wifi,Comunicaciones,Medio Ambiente,Turismo">
+  <url>http://www.gijon.es/directorios/show/1106-parque-de-isabel-la-catolica</url>
+  <identificador>1106</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2015-05-12 13:43:59 +0200</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f5/59435/915x552_v1_parque.JPG</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Parque de Isabel La Católica</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">&lt;p&gt;Proyectado en 1941, es el espacio verde de mayor extensión
+en la ciudad. En sus 151.857 m² coexisten
+diferentes ambientes. Destacan sus lagos, flanqueados por gran variedad de
+árboles y poblados de ocas, cisnes y aves silvestres.&lt;/p&gt;
+
+
+
+&lt;p&gt;El espacio central es la rosaleda, de estilo francés, donde
+habitan los pavos reales, seña de identidad del parque. Otros espacios de
+interés son la pradera próxima a la avenida de Castilla y la zona de juegos
+infantiles.&lt;/p&gt;
+
+
+
+&lt;p&gt;El parque posee un amplio repertorio escultórico con
+motivos mitológicos, personajes históricos y personalidades de la ciudad. En su
+mobiliario destacan los bancos de piedra y hierro fundido de los años veinte.&lt;/p&gt;</descripcion>
+  <direccion>Avda. Castilla (esquina Avda. Torcuato Fernández Miranda)</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.537723 -5.642917</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Avda. Castilla (esquina Avda. Torcuato Fernández Miranda)</direccion>
+  <categorias>
+    <categoria id="415" rdfa-property="http://purl.org/dc/terms/subject">Parques y Jardines</categoria>
+    <categoria id="933" rdfa-property="http://purl.org/dc/terms/subject">Edificios y lugares de interés</categoria>
+    <categoria id="945" rdfa-property="http://purl.org/dc/terms/subject">Puerto deportivo</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="193" rdfa-property="http://purl.org/dc/terms/subject">Medio Ambiente</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/1006-policia-local-trafico" tipo="Servicios Municipales,Cajeros Ciudadanos,Policía,Zona Wifi,Administración,Comunicaciones,Seguridad Ciudadana">
+  <url>http://www.gijon.es/directorios/show/1006-policia-local-trafico</url>
+  <identificador>1006</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2015-05-12 13:42:49 +0200</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f6/6814/282x212_v1_DirectorioseguridadCcis-1.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Policía Local - Tráfico</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 181 100 /092</telefono>
+  <fax>985 181 534</fax>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario>Lunes a Viernes: 9:00-14:00h.</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">Tramites:Pago de recibos municipales,alquiler de locales de ensayo,adquisición de tarjeta transporte,entrada a la ludoteca,servicio del centro médico deportivo,volante del padrón,olvido/cambio del PIN de la tarjeta ciudadana,recarga,consulta de movimientos,abono mensual,reserva de instalaciones deportivas,inscripción de cursos y consulta del censo electoral.</descripcion>
+  <direccion>C/San José, 2</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.535176 -5.658723</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">C/San José, 2</direccion>
+  <categorias>
+    <categoria id="98" rdfa-property="http://purl.org/dc/terms/subject">Servicios Municipales</categoria>
+    <categoria id="94" rdfa-property="http://purl.org/dc/terms/subject">Cajeros Ciudadanos</categoria>
+    <categoria id="431" rdfa-property="http://purl.org/dc/terms/subject">Policía</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="92" rdfa-property="http://purl.org/dc/terms/subject">Administración</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="197" rdfa-property="http://purl.org/dc/terms/subject">Seguridad Ciudadana</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/716-fidma-feria-internacional-de-muestras-de-asturias" tipo="Ocio,Zona Wifi,Comunicaciones,Cultura y Ocio">
+  <url>http://www.gijon.es/directorios/show/716-fidma-feria-internacional-de-muestras-de-asturias</url>
+  <identificador>716</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:02:40 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f6/6634/250x333_v1_DirectorioocioFeriaMuestrasTorre.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">FIDMA. Feria Internacional de Muestras de Asturias</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 180 100</telefono>
+  <fax>985 337 711</fax>
+  <correo-electronico>infofidma@camaragijon.com</correo-electronico>
+  <web></web>
+  <horario>Todos los días(1 al 15 Agosto): 11:00-22:00h.</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">&lt;div style="text-align: justify;"&gt;La Fidma nació como un punto de encuentro entre empresas e instituciones para presentar a sus visitantes el estado de la industria, el comercio y los servicios asturianos. Poco a poco se ha convertido en un escaparate en el que otras comunidades y países exponen sus productos. De esta forma, la Fidma ha ampliado el carácter regional original hasta situarse en un evento económico, social, y cultural de carácter internacional, y ha convertido a Gijón en una ineludible cita anual.&lt;/div&gt;</descripcion>
+  <direccion>Paseo del Doctor Fleming, 1109 (Recinto Ferial Luis Adaro)</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.53781 -5.637496</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Fidma Feria Intenacional de Muestras de Asturias - Paseo del Doctor Fleming, 1109 (Recinto Ferial Luis Adaro)</direccion>
+  <categorias>
+    <categoria id="392" rdfa-property="http://purl.org/dc/terms/subject">Ocio</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="12" rdfa-property="http://purl.org/dc/terms/subject">2010</categoria>
+    <categoria id="44" rdfa-property="http://purl.org/dc/terms/subject">Gijón</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="185" rdfa-property="http://purl.org/dc/terms/subject">Cultura y Ocio</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/569-edificio-trinidad" tipo="Edificios Municipales,Zona Wifi,Administración,Comunicaciones">
+  <url>http://www.gijon.es/directorios/show/569-edificio-trinidad</url>
+  <identificador>569</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2015-05-12 13:17:41 +0200</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f6/6503/250x333_v1_Directorioedificiosmunicipalestrinidad.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Edificio Trinidad</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>C/Instituto, 6</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.544364 -5.663597</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">C/Instituto, 6</direccion>
+  <categorias>
+    <categoria id="93" rdfa-property="http://purl.org/dc/terms/subject">Edificios Municipales</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="12" rdfa-property="http://purl.org/dc/terms/subject">2010</categoria>
+    <categoria id="44" rdfa-property="http://purl.org/dc/terms/subject">Gijón</categoria>
+    <categoria id="92" rdfa-property="http://purl.org/dc/terms/subject">Administración</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/560-servicio-de-sistemas-de-informacion" tipo="Edificios Municipales,Zona Wifi">
+  <url>http://www.gijon.es/directorios/show/560-servicio-de-sistemas-de-informacion</url>
+  <identificador>560</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:02:34 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f6/6498/250x333_v1_Directorioedificiosmunicipalesinformatica.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Servicio de Sistemas de Información</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 18 11 11</telefono>
+  <fax>985 17 51 20</fax>
+  <correo-electronico>soporte@gijon.es</correo-electronico>
+  <web></web>
+  <horario>Con cita previa</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Plaza Mayor, 9</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location"></localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Plaza Mayor, 9</direccion>
+  <categorias>
+    <categoria id="93" rdfa-property="http://purl.org/dc/terms/subject">Edificios Municipales</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/553-edificio-pelayo" tipo="Edificios Municipales,Zona Wifi,Administración,Comunicaciones">
+  <url>http://www.gijon.es/directorios/show/553-edificio-pelayo</url>
+  <identificador>553</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:02:34 +0100</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Edificio Pelayo</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion></direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.544957 -5.662961</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Plaza Mayor, 5</direccion>
+  <categorias>
+    <categoria id="93" rdfa-property="http://purl.org/dc/terms/subject">Edificios Municipales</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="12" rdfa-property="http://purl.org/dc/terms/subject">2010</categoria>
+    <categoria id="44" rdfa-property="http://purl.org/dc/terms/subject">Gijón</categoria>
+    <categoria id="92" rdfa-property="http://purl.org/dc/terms/subject">Administración</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/446-centro-municipal-vega-la-camocha" tipo="Sala de Exposiciones,Servicios Municipales,Cajeros Ciudadanos,Mediatecas,Zona Wifi,Administración,Comunicaciones,Cultura y Ocio">
+  <url>http://www.gijon.es/directorios/show/446-centro-municipal-vega-la-camocha</url>
+  <identificador>446</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2015-05-12 13:24:25 +0200</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f6/6423/250x200_v1_DirectorioedificiosmunicipalesCM-Vegacamo.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Centro Municipal Vega - La Camocha</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 137 686 , 985 136 011(Servicios Sociales)</telefono>
+  <fax>985 137 686</fax>
+  <correo-electronico>utscontrueces.fmss@gijon.es</correo-electronico>
+  <web></web>
+  <horario>Lunes a Viernes: 10:00-13:30h. y 17:00-20:30h. Julio y Agosto: 10:00-14:00h. y 17:00-20:00h.</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">Servicios del Centro: Laboratorio de fotografía, Sala de exposiciones, 2 aulas polivalentes, Centro de la Fundación de Servicios Sociales: Información y Tramitación de Prestaciones Sociales en General, Información y comunicación con el Ayuntamiento a través del Concejal Delegado de Alcaldía, Información, asesoramiento y recursos para las asociaciones y colectivos del barrio. Biblioteca: Sala de lectura, Sección infantil y juvenil, Sección adultos, Prensa y revistas, Préstamo de libros, discos, revistas, cd-rom, vídeo y dvd, Información bibliográfica y de referencia, Préstamo interbibliotecario y Catálogo colectivo. Red Municipal. Mediateca (10 puestos): Acceso gratuito a Internet y Cursos de formación digital.Cajero Ciudadano: Servicios de Pago de Recibos Municipales, alquiler de Locales de Ensayo, adquisición de Tarjeta de Transporte, entrada a Ludotecas, servicios del Centro Médico Deportivo, volante del Padrón, olvido y cambio de PIN, recarga de la Tarjeta, consulta de saldo de la Tarjeta, consulta de movimientos de la Tarjeta, abono mensual del transporte, reserva de Instalaciones Deportivas, inscripción de Cursos y consulta del Censo Electoral.</descripcion>
+  <direccion>C/Charles Chaplin, s/n.</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.48682 -5.652342</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">C/Charles Chaplin, s/n.</direccion>
+  <categorias>
+    <categoria id="201" rdfa-property="http://purl.org/dc/terms/subject">Sala de Exposiciones</categoria>
+    <categoria id="98" rdfa-property="http://purl.org/dc/terms/subject">Servicios Municipales</categoria>
+    <categoria id="94" rdfa-property="http://purl.org/dc/terms/subject">Cajeros Ciudadanos</categoria>
+    <categoria id="200" rdfa-property="http://purl.org/dc/terms/subject">Mediatecas</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="12" rdfa-property="http://purl.org/dc/terms/subject">2010</categoria>
+    <categoria id="44" rdfa-property="http://purl.org/dc/terms/subject">Gijón</categoria>
+    <categoria id="92" rdfa-property="http://purl.org/dc/terms/subject">Administración</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="185" rdfa-property="http://purl.org/dc/terms/subject">Cultura y Ocio</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/445-biblioteca-de-montiana-centro-municipal-de-montiana" tipo="Servicios Municipales,Cajeros Ciudadanos,Edificios Municipales,Mediatecas,Zona Wifi,Administración,Comunicaciones">
+  <url>http://www.gijon.es/directorios/show/445-biblioteca-de-montiana-centro-municipal-de-montiana</url>
+  <identificador>445</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2015-03-12 08:41:19 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f6/6422/250x141_v1_Directoriobibliotecasmontiana.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Biblioteca de Montiana (Centro Municipal de Montiana)</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 300 030 , 985 311 877(Servicios Sociales)</telefono>
+  <fax/>
+  <correo-electronico>bibliotecamontiana@gijon.es</correo-electronico>
+  <web></web>
+  <horario>Lunes a Viernes: 16.30 a 20.00 h. Julio y Agosto: Lunes a Viernes: 10:00-13:30h.</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">Ofrece diversos servicios y dispone de diferentes equipamientos tales como: Biblioteca, Mediateca (6 puestos) y Cajero Ciudadano: Servicios de Pago de Recibos Municipales, alquiler de Locales de Ensayo, adquisición de Tarjeta de Transporte, entrada a Ludotecas, servicios del Centro Médico Deportivo, volante del Padrón, olvido y cambio de PIN, recarga de la Tarjeta, consulta de saldo de la Tarjeta, consulta de movimientos de la Tarjeta, abono mensual del transporte, reserva de Instalaciones Deportivas, inscripción de Cursos y consulta del Censo Electoral.</descripcion>
+  <direccion>Montiana, s/n.</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.521078 -5.746939</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Montiana, nº 3540. - Montiana, s/n.</direccion>
+  <categorias>
+    <categoria id="98" rdfa-property="http://purl.org/dc/terms/subject">Servicios Municipales</categoria>
+    <categoria id="94" rdfa-property="http://purl.org/dc/terms/subject">Cajeros Ciudadanos</categoria>
+    <categoria id="93" rdfa-property="http://purl.org/dc/terms/subject">Edificios Municipales</categoria>
+    <categoria id="200" rdfa-property="http://purl.org/dc/terms/subject">Mediatecas</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="12" rdfa-property="http://purl.org/dc/terms/subject">2010</categoria>
+    <categoria id="44" rdfa-property="http://purl.org/dc/terms/subject">Gijón</categoria>
+    <categoria id="92" rdfa-property="http://purl.org/dc/terms/subject">Administración</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/443-centro-municipal-integrado-de-l-arena" tipo="Sala de Exposiciones,Cajeros de transporte emtusa,Cajeros Ciudadanos,Edificios Municipales,Mediatecas,Zona Wifi,Servicio Atención al Ciudadano,Servicios Sociales,Ocio,Bibliotecas,Teatro,Pabellones,Lineas de autobuses urbanos,Aseos públicos,Administración,Comunicaciones,Cultura y Ocio,Deporte,Movilidad,Turismo">
+  <url>http://www.gijon.es/directorios/show/443-centro-municipal-integrado-de-l-arena</url>
+  <identificador>443</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2015-10-28 11:29:08 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f6/6420/250x188_v1_Directoriobibliotecasarena.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Centro Municipal Integrado de L'Arena</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">+34 985 181 620</telefono>
+  <fax>985 181 618</fax>
+  <correo-electronico>cmiarena@gijon.es</correo-electronico>
+  <web>http://www.gijon.es</web>
+  <horario>Lunes a Viernes: 8:00-22:00h. Cajero: 24h.</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">&lt;p align="justify"&gt; Este centro integrado comparte los servicios del distrito Este con el centro municipal integrado de El Coto. Así puede verse en su publicación mensual de servicios y actividades, la &lt;em&gt;Agenda&lt;/em&gt;, compartida por los dos centros y distribuida, tanto en papel como a través de este sitio web.  Con este edificio, el ayuntamiento llega a un territorio, muy cercano al centro, densamente poblado y con necesidad de todo tipo de servicios como los que se ofrecen desde un centro integrado. Es decir, su idea de reunir servicios y actividades coordinadas y cercanas a cualquier residencia. Todos los servicios descentralizados por el ayuntamiento en esta zona de Gijón están aquí presentes, con las características del edificio, presididos por la idea de la integración. Haciendo compatibles servicios generales con otros especializados, por ejemplo en políticas de igualdad y Mujer.  Es decir, un servicio hecho de servicios diferentes, que se prestan como uno sólo para que el usuario elija, según su gusto o necesidades. &lt;/p&gt;&lt;p align="justify"&gt;Dispone de: oficina de atención al ciudadano, Oficina municipal de políticas de igualdad, Servicios Sociales, concejalía de distrito, biblioteca, mediateca (16 puestos), cajero ciudadano, sala de exposiciones, salón de actos, aulas y salas polivalentes. Está próximo al pabellón de deportes de La Arena.&lt;/p&gt;&lt;p align="center"&gt;&lt;img src="/data/images/f0/f4/42483/767x500_v1_CENTROARENA%28exterior%29.JPG" alt="arena" class="nicedit_sin-alinear magnify" height="500" width="767" width="767" height="500"/&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h3&gt;&lt;a href="http://issuu.com/agendasdeloscentrosintegrados/docs/red_de_centros_municipales_integrad" title="Ir a http://issuu.com/agendasdeloscentrosintegrados/docs/red_de_centros_municipales_integrad" rel="external"&gt;Espacios del Centro Municipal Integrado de L'Arena (ver espacios).&lt;/a&gt;&lt;br/&gt;&lt;/h3&gt;&lt;br/&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style="text-align: center;"&gt;Espacio&lt;br/&gt;&lt;/th&gt;&lt;th style="text-align: center;"&gt;Puestos y Aforo&lt;br/&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Salón de actos&lt;br/&gt;&lt;/td&gt;&lt;td style="text-align: right;"&gt;192&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Aulas 1 y 3&lt;br/&gt;&lt;/td&gt;&lt;td style="text-align: right;"&gt;25&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Aulas 4 y 5&lt;br/&gt;&lt;/td&gt;&lt;td style="text-align: right;"&gt;29&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Aula 2&lt;br/&gt;&lt;/td&gt;&lt;td style="text-align: right;"&gt;20&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="vertical-align: top;"&gt;Aula 6&lt;br/&gt;&lt;/td&gt;&lt;td style="vertical-align: top; text-align: right;"&gt;45&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="vertical-align: top;"&gt;Biblioteca&lt;br/&gt;&lt;/td&gt;&lt;td style="vertical-align: top; text-align: right;"&gt;Adultos: 144&lt;br/&gt;Infantiles: 37&lt;br/&gt;Lectura de prensa: 24&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="vertical-align: top;"&gt;Mediateca&lt;br/&gt;&lt;/td&gt;&lt;td style="vertical-align: top; text-align: right;"&gt;16&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="vertical-align: top;"&gt;Sala de Exposiciones&lt;br/&gt;&lt;/td&gt;&lt;td style="vertical-align: top; text-align: right;"&gt;96 m2&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</descripcion>
+  <direccion>C/Canga Argüelles, 16- 18</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.539034 -5.650709</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">C/Canga Argüelles, 16- 18</direccion>
+  <categorias>
+    <categoria id="201" rdfa-property="http://purl.org/dc/terms/subject">Sala de Exposiciones</categoria>
+    <categoria id="512" rdfa-property="http://purl.org/dc/terms/subject">Cajeros de transporte emtusa</categoria>
+    <categoria id="94" rdfa-property="http://purl.org/dc/terms/subject">Cajeros Ciudadanos</categoria>
+    <categoria id="93" rdfa-property="http://purl.org/dc/terms/subject">Edificios Municipales</categoria>
+    <categoria id="200" rdfa-property="http://purl.org/dc/terms/subject">Mediatecas</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="97" rdfa-property="http://purl.org/dc/terms/subject">Servicio Atención al Ciudadano</categoria>
+    <categoria id="12" rdfa-property="http://purl.org/dc/terms/subject">2010</categoria>
+    <categoria id="44" rdfa-property="http://purl.org/dc/terms/subject">Gijón</categoria>
+    <categoria id="1233" rdfa-property="http://purl.org/dc/terms/subject">Otras salas de congresos</categoria>
+    <categoria id="99" rdfa-property="http://purl.org/dc/terms/subject">Servicios Sociales</categoria>
+    <categoria id="392" rdfa-property="http://purl.org/dc/terms/subject">Ocio</categoria>
+    <categoria id="186" rdfa-property="http://purl.org/dc/terms/subject">Bibliotecas</categoria>
+    <categoria id="190" rdfa-property="http://purl.org/dc/terms/subject">Teatro</categoria>
+    <categoria id="398" rdfa-property="http://purl.org/dc/terms/subject">Pabellones</categoria>
+    <categoria id="444" rdfa-property="http://purl.org/dc/terms/subject">Lineas de autobuses urbanos</categoria>
+    <categoria id="947" rdfa-property="http://purl.org/dc/terms/subject">Aseos públicos</categoria>
+    <categoria id="92" rdfa-property="http://purl.org/dc/terms/subject">Administración</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="185" rdfa-property="http://purl.org/dc/terms/subject">Cultura y Ocio</categoria>
+    <categoria id="192" rdfa-property="http://purl.org/dc/terms/subject">Deporte</categoria>
+    <categoria id="198" rdfa-property="http://purl.org/dc/terms/subject">Movilidad</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/441-centro-municipal-integrado-de-el-coto" tipo="Sala de Exposiciones,Servicios Municipales,Cajeros Ciudadanos,Mediatecas,Zona Wifi,Servicio Atención al Ciudadano,Servicios Sociales,Ocio,Bibliotecas,Piscinas Municipales,Pictogramas,Aparcamientos,Establecimientos de Recarga del Monedero Transporte,Lineas de autobuses urbanos,Taxis,Servicios municipales,Museos y salas de exposiciones,Centros culturales,Aseos públicos,Administración,Comunicaciones,Cultura y Ocio,Deporte,Movilidad,Turismo">
+  <url>http://www.gijon.es/directorios/show/441-centro-municipal-integrado-de-el-coto</url>
+  <identificador>441</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2015-10-28 11:01:36 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f6/6418/150x113_v1_DirectorioedificiosmunicipalesCMI-elcoto.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Centro Municipal Integrado de El Coto</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">+34 985 181 701</telefono>
+  <fax>985 132 299</fax>
+  <correo-electronico>cmicoto@gijon.es</correo-electronico>
+  <web>http://www.gijon.es</web>
+  <horario>Lunes a Viernes: 8:00-22:00h. Cajero: 24h.</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">Es el centro pionero de la red de centros integrados. Un edificio de servicios múltiples, cabecera del distrito Este. Supone la presencia efectiva del ayuntamiento en ese territorio, con todos sus servicios y con sus nuevas estructuras y dotaciones. Su idea es la de reunir servicios y actividades coordinadas y cercanas a cualquier residencia. Todos los servicios descentralizados por el ayuntamiento en esta zona de Gijón están aquí presentes presididos por la idea de la integración. Es decir, un servicio hecho de servicios diferentes, que se prestan como uno sólo para que el usuario elija, según su gusto o necesidades.&lt;br/&gt;&lt;br/&gt; &lt;p&gt;Dispone de: oficina de atención al ciudadano, Servicios Sociales, Empleo, Patronato Deportivo Municipal, Servicio de Prevención y Salud Laboral, concejalía de distrito, biblioteca, mediateca (10 puestos), cajero ciudadano, sala de exposiciones, salón de actos y salas polivalentes.&lt;/p&gt;&lt;p&gt;&lt;img src="/data/images/f0/f4/42475/298x400_v1_CentroCoto%28exteriorgenerallosa%29.JPG" alt="Fachada El Coto" class="image-izquierda magnify" height="400" width="298" width="298" height="400"/&gt;&lt;img src="/data/images/f0/f4/42476/300x400_v1_CentroCoto%28bibliotecainteriordesdepisosuperior%29.JPG" alt="El coto interior" class="image-derecha magnify" height="400" width="300" width="300" height="400"/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://issuu.com/agendasdeloscentrosintegrados/docs/red_de_centros_municipales_integrad" title="Ir a http://issuu.com/agendasdeloscentrosintegrados/docs/red_de_centros_municipales_integrad" rel="external"&gt;&lt;b&gt;Espacios del Centro Municipal Integrado de El Coto (ver espacios).&lt;/b&gt;&lt;br/&gt;&lt;/a&gt;&lt;/p&gt;&lt;br/&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style="text-align: center;"&gt;Espacio&lt;br/&gt;&lt;/th&gt;&lt;th style="text-align: center;"&gt;Puestos y Aforo&lt;br/&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Salón de actos&lt;br/&gt;&lt;/td&gt;&lt;td style="text-align: right;"&gt;207&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sala Polivalente&lt;br/&gt;&lt;/td&gt;&lt;td style="text-align: right;"&gt;166 ó 331&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sala Paraninfo&lt;br/&gt;&lt;/td&gt;&lt;td style="text-align: right;"&gt;84&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Aula 1&lt;br/&gt;&lt;/td&gt;&lt;td style="text-align: right;"&gt;36&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Aula 2&lt;br/&gt;&lt;/td&gt;&lt;td style="text-align: right;"&gt;44&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="vertical-align: top;"&gt;Aula 3                                         &lt;br/&gt;&lt;/td&gt;&lt;td style="vertical-align: top; text-align: right;"&gt;                                          52 &lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="vertical-align: top;"&gt;Aula auxiliar&lt;br/&gt;&lt;/td&gt;&lt;td style="vertical-align: top; text-align: right;"&gt;6&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="vertical-align: top;"&gt;Sala de estudio&lt;br/&gt;&lt;/td&gt;&lt;td style="vertical-align: top; text-align: right;"&gt;52&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="vertical-align: top;"&gt;Biblioteca&lt;br/&gt;&lt;/td&gt;&lt;td style="vertical-align: top; text-align: right;"&gt;Adultos: 68&lt;br/&gt;Infantil:32&lt;br/&gt;Lectura prensa: 24&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="vertical-align: top;"&gt;Mediateca&lt;br/&gt;&lt;/td&gt;&lt;td style="vertical-align: top; text-align: right;"&gt;10&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="vertical-align: top;"&gt;Sala de exposiciones&lt;br/&gt;&lt;/td&gt;&lt;td style="vertical-align: top; text-align: right;"&gt;137 m2&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</descripcion>
+  <direccion>Plaza de la República, s/n.</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.533605 -5.649089</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Plaza de la República, s/n.</direccion>
+  <categorias>
+    <categoria id="201" rdfa-property="http://purl.org/dc/terms/subject">Sala de Exposiciones</categoria>
+    <categoria id="98" rdfa-property="http://purl.org/dc/terms/subject">Servicios Municipales</categoria>
+    <categoria id="94" rdfa-property="http://purl.org/dc/terms/subject">Cajeros Ciudadanos</categoria>
+    <categoria id="200" rdfa-property="http://purl.org/dc/terms/subject">Mediatecas</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="97" rdfa-property="http://purl.org/dc/terms/subject">Servicio Atención al Ciudadano</categoria>
+    <categoria id="12" rdfa-property="http://purl.org/dc/terms/subject">2010</categoria>
+    <categoria id="44" rdfa-property="http://purl.org/dc/terms/subject">Gijón</categoria>
+    <categoria id="1233" rdfa-property="http://purl.org/dc/terms/subject">Otras salas de congresos</categoria>
+    <categoria id="99" rdfa-property="http://purl.org/dc/terms/subject">Servicios Sociales</categoria>
+    <categoria id="392" rdfa-property="http://purl.org/dc/terms/subject">Ocio</categoria>
+    <categoria id="186" rdfa-property="http://purl.org/dc/terms/subject">Bibliotecas</categoria>
+    <categoria id="399" rdfa-property="http://purl.org/dc/terms/subject">Piscinas Municipales</categoria>
+    <categoria id="517" rdfa-property="http://purl.org/dc/terms/subject">Pictogramas</categoria>
+    <categoria id="439" rdfa-property="http://purl.org/dc/terms/subject">Aparcamientos</categoria>
+    <categoria id="440" rdfa-property="http://purl.org/dc/terms/subject">Establecimientos de Recarga del Monedero Transporte</categoria>
+    <categoria id="444" rdfa-property="http://purl.org/dc/terms/subject">Lineas de autobuses urbanos</categoria>
+    <categoria id="446" rdfa-property="http://purl.org/dc/terms/subject">Taxis</categoria>
+    <categoria id="927" rdfa-property="http://purl.org/dc/terms/subject">Servicios municipales</categoria>
+    <categoria id="931" rdfa-property="http://purl.org/dc/terms/subject">Museos y salas de exposiciones</categoria>
+    <categoria id="932" rdfa-property="http://purl.org/dc/terms/subject">Centros culturales</categoria>
+    <categoria id="947" rdfa-property="http://purl.org/dc/terms/subject">Aseos públicos</categoria>
+    <categoria id="92" rdfa-property="http://purl.org/dc/terms/subject">Administración</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="185" rdfa-property="http://purl.org/dc/terms/subject">Cultura y Ocio</categoria>
+    <categoria id="192" rdfa-property="http://purl.org/dc/terms/subject">Deporte</categoria>
+    <categoria id="198" rdfa-property="http://purl.org/dc/terms/subject">Movilidad</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/440-centro-municipal-del-poligono-de-pumarin" tipo="Servicios Municipales,Cajeros de transporte emtusa,Mediatecas,Zona Wifi">
+  <url>http://www.gijon.es/directorios/show/440-centro-municipal-del-poligono-de-pumarin</url>
+  <identificador>440</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:02:30 +0100</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Centro Municipal del Polígono de Pumarín</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 185 127 ,  985 185 128</telefono>
+  <fax/>
+  <correo-electronico>bibliotecapoligono@gijon.es</correo-electronico>
+  <web></web>
+  <horario>Lunes a Viernes: 9:00-20:00h.</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>C/Puerto de Piedrafita, 3</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.530439 -5.674355</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">C/Puerto de Piedrafita, 3</direccion>
+  <categorias>
+    <categoria id="98" rdfa-property="http://purl.org/dc/terms/subject">Servicios Municipales</categoria>
+    <categoria id="512" rdfa-property="http://purl.org/dc/terms/subject">Cajeros de transporte emtusa</categoria>
+    <categoria id="200" rdfa-property="http://purl.org/dc/terms/subject">Mediatecas</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="12" rdfa-property="http://purl.org/dc/terms/subject">2010</categoria>
+    <categoria id="44" rdfa-property="http://purl.org/dc/terms/subject">Gijón</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/438-biblioteca-municipal-de-roces" tipo="Bibliotecas,Servicios Municipales,Cajeros de transporte emtusa,Mediatecas,Zona Wifi,Administración,Comunicaciones,Cultura y Ocio,Movilidad">
+  <url>http://www.gijon.es/directorios/show/438-biblioteca-municipal-de-roces</url>
+  <identificador>438</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2015-05-12 13:25:08 +0200</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/31603/267x200_v1_ExteriorRoces200.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Biblioteca Municipal de Roces</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 181 692</telefono>
+  <fax/>
+  <correo-electronico>bibliotecaroces@gijon.es</correo-electronico>
+  <web>http://bibliotecas.gijon.es/</web>
+  <horario>Lunes a viernes de 9.00 a 14.00 h y de 16.00 a 20.00 h. Julio y agosto de 9.00 a 15.00h</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">Ofrece diversos servicios y dispone de diferentes equipamientos tales como: &lt;br/&gt;
+&lt;ul&gt;
+&lt;li&gt;Sala de lectura. 
+&lt;/li&gt;&lt;li&gt;Sección adultos. 
+&lt;/li&gt;&lt;li&gt;Sección infantil y juvenil. 
+&lt;/li&gt;&lt;li&gt;Biblioteca para padres y madres. 
+&lt;/li&gt;&lt;li&gt;Bebeteca. 
+&lt;/li&gt;&lt;li&gt;Sección Asturiana. 
+&lt;/li&gt;&lt;li&gt;Centros de interés: Fácil de leer, Cómic, Viajes, Idiomas. 
+&lt;/li&gt;&lt;li&gt;Prensa y revistas. Préstamo de libros, discos, revistas, vídeo y dvd. 
+&lt;/li&gt;&lt;li&gt;Préstamo interbibliotecario. Información bibliográfica y de referencia. 
+&lt;/li&gt;&lt;li&gt;Actividades de animación a la lectura: La hora de los cuentos. 
+&lt;/li&gt;&lt;li&gt;Programa de formación en el uso de la biblioteca para escolares (Cita previa concertada). 
+&lt;/li&gt;&lt;li&gt;Información y asesoramiento sobre temas generales de interés para la comunidad. 
+&lt;/li&gt;&lt;li&gt;Consulta Catálogo Colectivo de la Red de Bibliotecas del Principado de Asturias. 
+&lt;/li&gt;&lt;li&gt;Consulta Red Municipal de Bibliotecas . 
+&lt;/li&gt;&lt;li&gt;Mediateca (6 puestos): Acceso gratuito a Internet &lt;/li&gt;&lt;/ul&gt;&lt;span style="FONT-WEIGHT: bold"&gt;Cómo llegar: &lt;/span&gt;&lt;br/&gt;Líneas de autobuses: Línea 15</descripcion>
+  <direccion>Avda. Salvador Allende, 13 C.P. 33211</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.51898 -5.683518</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Avda. Salvador Allende, 13 C.P. 33211</direccion>
+  <categorias>
+    <categoria id="186" rdfa-property="http://purl.org/dc/terms/subject">Bibliotecas</categoria>
+    <categoria id="98" rdfa-property="http://purl.org/dc/terms/subject">Servicios Municipales</categoria>
+    <categoria id="512" rdfa-property="http://purl.org/dc/terms/subject">Cajeros de transporte emtusa</categoria>
+    <categoria id="200" rdfa-property="http://purl.org/dc/terms/subject">Mediatecas</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="92" rdfa-property="http://purl.org/dc/terms/subject">Administración</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="185" rdfa-property="http://purl.org/dc/terms/subject">Cultura y Ocio</categoria>
+    <categoria id="198" rdfa-property="http://purl.org/dc/terms/subject">Movilidad</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/436-centro-municipal-el-natahoyo" tipo="Sala de Exposiciones,Servicios Municipales,Cajeros de transporte emtusa,Mediatecas,Zona Wifi,Administración,Comunicaciones,Cultura y Ocio,Movilidad">
+  <url>http://www.gijon.es/directorios/show/436-centro-municipal-el-natahoyo</url>
+  <identificador>436</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2015-05-12 13:26:26 +0200</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f6/6416/250x188_v1_DirectorioedificiosmunicipalesCM-natahoyo.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Centro Municipal El Natahoyo</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 320 348(Biblioteca) , 984 491 969 (Servicios Sociales)</telefono>
+  <fax/>
+  <correo-electronico>bibliotecanatahoyo@gijon.es</correo-electronico>
+  <web></web>
+  <horario>Lunes a Viernes: 9.00 a 20.00 h.</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">Ofrece diversos servicios y dispone de diferentes equipamientos tales como:
+Servicios sociales: Información y Tramitación de Prestaciones Sociales en General. Bibliotecas: Sala de lectura, Sección infantil y juvenil, Sección adultos, Prensa y revistas, Préstamo de libros, discos, revistas, cd-rom, vídeo y dvd, Información bibliográfica y de referencia, Préstamo interbibliotecario y Catálogo colectivo. Red Municipal. Mediateca (12 puestos): Acceso gratuito a Internet y Cursos de formación digital.</descripcion>
+  <direccion>C/La Estrella, s/n.</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.540316 -5.688418</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">C/La Estrella, s/n.</direccion>
+  <categorias>
+    <categoria id="201" rdfa-property="http://purl.org/dc/terms/subject">Sala de Exposiciones</categoria>
+    <categoria id="98" rdfa-property="http://purl.org/dc/terms/subject">Servicios Municipales</categoria>
+    <categoria id="512" rdfa-property="http://purl.org/dc/terms/subject">Cajeros de transporte emtusa</categoria>
+    <categoria id="200" rdfa-property="http://purl.org/dc/terms/subject">Mediatecas</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="12" rdfa-property="http://purl.org/dc/terms/subject">2010</categoria>
+    <categoria id="44" rdfa-property="http://purl.org/dc/terms/subject">Gijón</categoria>
+    <categoria id="92" rdfa-property="http://purl.org/dc/terms/subject">Administración</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="185" rdfa-property="http://purl.org/dc/terms/subject">Cultura y Ocio</categoria>
+    <categoria id="198" rdfa-property="http://purl.org/dc/terms/subject">Movilidad</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/416-centro-de-cultura-antiguo-instituto" tipo="Sala de Exposiciones,Servicios Municipales,Cajeros Ciudadanos,Edificios Municipales,Mediatecas,Zona Wifi,Servicios municipales,Monumentos,Edificios y lugares de interés,Administración,Comunicaciones,Cultura y Ocio,Turismo">
+  <url>http://www.gijon.es/directorios/show/416-centro-de-cultura-antiguo-instituto</url>
+  <identificador>416</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2015-11-25 15:40:29 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f6/6407/250x188_v1_Directorioedificiosmunicipalesantistituto.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Centro de Cultura Antiguo Instituto</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">+34 985 181 001</telefono>
+  <fax>985 350 709</fax>
+  <correo-electronico>ccai@gijon.es</correo-electronico>
+  <web>http://cultura.gijon.es</web>
+  <horario>&lt;span style="font-weight: bold;"&gt;Lunes a Viernes:&lt;/span&gt; 9:00-22:00h.&lt;br/&gt;&lt;span style="font-weight: bold;"&gt;Sábados:&lt;/span&gt; 10:00-14:00h. y 16:00-21:00h.&lt;br/&gt;&lt;span style="font-weight: bold;"&gt;Domingos y festivos:&lt;/span&gt; 10:00-14:00h.</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">&lt;p&gt;El 19 de
+octubre de 1797, Gaspar Melchor de Jovellanos colocó la primera piedra del Real
+Instituto Asturiano, fundado con el objetivo de impartir formación científica y
+técnica en las materias de marina y minería, dada la importancia de ambas
+actividades en Asturias.&lt;/p&gt;
+
+
+
+&lt;p&gt;El
+edificio actual es el resultado de dos fases constructivas. La primera se
+desarrolló entre 1797 y 1807 y responde a las trazas de Juan de Villanueva
+(1739-1811), que proyectó la planta baja, de estilo neoclásico. La segunda fase
+se corresponde con la ampliación realizada entre 1887 y 1892 por Ricardo Marcos
+Bausá, que consistió en la elevación de dos plantas sobre la original.&lt;/p&gt;
+
+
+
+&lt;p&gt;Actualmente
+alberga el Centro de Cultura Antiguo Instituto, un espacio de referencia para
+la creación, producción y difusión artística y cultural de la ciudad, así como de la formación especializada en los lenguajes artísticos, proporcionando los espacios y equipamientos adecuados para tal fin. Depende del Departamento de Promoción de las Artes cuyo objetivo primordial es el apoyo a los creadores que inician su trabajo en distintos ámbitos de la creación.Su programación se articula en las siguientes grandes áreas: Programas de Difusión: Conciertos de Música, actuaciones de Teatro y Danza, Poesía, Imagen; Apoyo a la Creación Artística; Formación especializada: Sonido, Imagen, Teatro, Danza; Apoyo al Asociacionismo: casi 200 entidades y asociaciones colaboran anualmente en las actividades del Centro; Grandes eventos culturales: Salón del Libro Iberoamericano, Fetén, Semana de Música Antigua, Danza Gijón, Festival Internacional de Cine, Salón Internacional del Cómic, Al Norte, Festival Internacional de Video-Arte Optica, Festival Internacional de música de Gijón...&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;
+&lt;h3&gt;Accesibilidad:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Alta: 
+&lt;ul&gt;
+&lt;li&gt;Acceso 
+&lt;/li&gt;&lt;li&gt;Movilidad interior&lt;/li&gt;&lt;/ul&gt;
+&lt;/li&gt;&lt;li&gt;Media: &lt;br/&gt;
+&lt;ul&gt;
+&lt;li&gt;Ascensor&lt;/li&gt;&lt;/ul&gt;
+&lt;/li&gt;&lt;li&gt;Baja: 
+&lt;ul&gt;
+&lt;li&gt;Aseos&lt;br/&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;Observaciones: &lt;/h3&gt;Dispone de aseo para personas con discapacidad, pero se considera practicable pues no cumple con las medidas legalmente establecidas (carece de espacio de transferencia y el lavabo tiene pedestal).&lt;br/&gt;&lt;br/&gt;
+&lt;h3&gt;Información sobre las salas del Centro de Cultura Antiguo Instituto&lt;/h3&gt;&lt;br/&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Sala&lt;/th&gt;
+&lt;th&gt;Teatro&lt;/th&gt;
+&lt;th&gt;Otras disposiciones&lt;br/&gt;&lt;/th&gt;
+&lt;th&gt;m&lt;sup&gt;2&lt;/sup&gt;&lt;/th&gt;
+&lt;th&gt;Altura&lt;br/&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Salón de actos&lt;br/&gt;&lt;/td&gt;
+&lt;td&gt;120&lt;/td&gt;
+&lt;td&gt;&lt;br/&gt;&lt;/td&gt;
+&lt;td&gt;150&lt;/td&gt;
+&lt;td&gt;4 - 5&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Sala de conferencias&lt;br/&gt;&lt;/td&gt;
+&lt;td&gt;100&lt;/td&gt;
+&lt;td&gt;Escuela&lt;/td&gt;
+&lt;td&gt;82&lt;/td&gt;
+&lt;td&gt;4&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</descripcion>
+  <direccion>C/Jovellanos, 21. 33201 Gijón</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.541448 -5.662224</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">C/Jovellanos, 21. 33201 Gijón</direccion>
+  <categorias>
+    <categoria id="201" rdfa-property="http://purl.org/dc/terms/subject">Sala de Exposiciones</categoria>
+    <categoria id="98" rdfa-property="http://purl.org/dc/terms/subject">Servicios Municipales</categoria>
+    <categoria id="94" rdfa-property="http://purl.org/dc/terms/subject">Cajeros Ciudadanos</categoria>
+    <categoria id="93" rdfa-property="http://purl.org/dc/terms/subject">Edificios Municipales</categoria>
+    <categoria id="200" rdfa-property="http://purl.org/dc/terms/subject">Mediatecas</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="12" rdfa-property="http://purl.org/dc/terms/subject">2010</categoria>
+    <categoria id="44" rdfa-property="http://purl.org/dc/terms/subject">Gijón</categoria>
+    <categoria id="927" rdfa-property="http://purl.org/dc/terms/subject">Servicios municipales</categoria>
+    <categoria id="165" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+    <categoria id="189" rdfa-property="http://purl.org/dc/terms/subject">Monumentos</categoria>
+    <categoria id="933" rdfa-property="http://purl.org/dc/terms/subject">Edificios y lugares de interés</categoria>
+    <categoria id="92" rdfa-property="http://purl.org/dc/terms/subject">Administración</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="185" rdfa-property="http://purl.org/dc/terms/subject">Cultura y Ocio</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+    <categoria id="14" rdfa-property="http://purl.org/dc/terms/subject">Cultura</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/274-torre-del-reloj" tipo="Servicios Municipales,Edificios Municipales,Zona Wifi,Monumentos,Edificios y lugares de interés,Administración,Comunicaciones,Cultura y Ocio,Turismo">
+  <url>http://www.gijon.es/directorios/show/274-torre-del-reloj</url>
+  <identificador>274</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:02:26 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f6/6340/203x270_v1_Directoriomuseostorrereloj.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Torre del Reloj</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 181 120</telefono>
+  <fax>985 181 182</fax>
+  <correo-electronico>archivo@gijon.es</correo-electronico>
+  <web></web>
+  <horario>Lunes a Viernes: 9:00-14:00h.</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">&lt;p&gt;Se
+levantó en 1572 sobre los restos de la antigua muralla romana. Inicialmente se
+destinó a casa consistorial, siendo sede del Ayuntamiento hasta su
+reutilización como cárcel, función que desempeñó hasta 1909. Tras su abandono,
+fue demolida en 1911.&lt;/p&gt;
+
+
+
+&lt;p&gt;En
+1989, durante la rehabilitación del barrio de Cimavilla, salieron a la luz los
+vestigios de la antigua muralla romana. Tras su estudio, se decidió visibilizar
+esos restos, acometiendo una reconstrucción que mostrase el aspecto original de
+la estructura defensiva. El edificio de la Torre del Reloj se recuperó
+siguiendo esos mismos criterios, para mantener la coherencia visual del conjunto.&lt;/p&gt;
+
+
+
+&lt;p&gt;Actualmente
+es sede del Archivo Municipal de Gijón.&lt;/p&gt;</descripcion>
+  <direccion>C/Recoletas, 5 (Edificio Torre del Reloj). 33201 Gijón</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.545686 -5.663436</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">C/Recoletas, 5 (Edificio Torre del Reloj). 33201 Gijón</direccion>
+  <categorias>
+    <categoria id="98" rdfa-property="http://purl.org/dc/terms/subject">Servicios Municipales</categoria>
+    <categoria id="93" rdfa-property="http://purl.org/dc/terms/subject">Edificios Municipales</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="44" rdfa-property="http://purl.org/dc/terms/subject">Gijón</categoria>
+    <categoria id="189" rdfa-property="http://purl.org/dc/terms/subject">Monumentos</categoria>
+    <categoria id="933" rdfa-property="http://purl.org/dc/terms/subject">Edificios y lugares de interés</categoria>
+    <categoria id="92" rdfa-property="http://purl.org/dc/terms/subject">Administración</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="185" rdfa-property="http://purl.org/dc/terms/subject">Cultura y Ocio</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/199-alpee-departamento-de-escuelas-taller" tipo="Servicios Municipales,Zona Wifi,Administración,Comunicaciones">
+  <url>http://www.gijon.es/directorios/show/199-alpee-departamento-de-escuelas-taller</url>
+  <identificador>199</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:02:24 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f4/40485/130x108_v1_c130x108_v1_agenciaLocalEmpleo.jpeg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">ALPEE. Departamento de Escuelas Taller</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 181 589</telefono>
+  <fax>985 181 594</fax>
+  <correo-electronico>escuelastaller.alpee@gijon.es</correo-electronico>
+  <web>http://empleo.gijon.es</web>
+  <horario>Lunes a Viernes: 9:00 - 14:00h.</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>C/ Avelino González Mallada, 27 - Planta Primera - 33204</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location"></localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">C/ Avelino González Mallada, 27 - Planta Primera - 33204</direccion>
+  <categorias>
+    <categoria id="98" rdfa-property="http://purl.org/dc/terms/subject">Servicios Municipales</categoria>
+    <categoria id="12" rdfa-property="http://purl.org/dc/terms/subject">2010</categoria>
+    <categoria id="44" rdfa-property="http://purl.org/dc/terms/subject">Gijón</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="92" rdfa-property="http://purl.org/dc/terms/subject">Administración</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/196-alpee-departamento-economico" tipo="Servicios Municipales,Zona Wifi,Administración,Comunicaciones">
+  <url>http://www.gijon.es/directorios/show/196-alpee-departamento-economico</url>
+  <identificador>196</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:02:24 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f4/40485/130x108_v1_c130x108_v1_agenciaLocalEmpleo.jpeg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">ALPEE - Departamento Económico</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 181 555</telefono>
+  <fax>985 181 562</fax>
+  <correo-electronico>agencialocal@gijon.es</correo-electronico>
+  <web>../../../../</web>
+  <horario>&lt;a href="mailto:economico.alpee@gijon.es" title="Enviar correo electrónico a economico.alpee@gijon.es"&gt;	&lt;/a&gt;&lt;a href="mailto:economico.alpee@gijon.es" title="Enviar correo electrónico a economico.alpee@gijon.es"&gt;	&lt;/a&gt;&lt;a href="mailto:economico.alpee@gijon.es" title="Enviar correo electrónico a economico.alpee@gijon.es"&gt;	&lt;/a&gt;Lunes a Viernes: 9:00-14:00h&lt;a href="mailto:economico.alpee@gijon.es" title="Enviar correo electrónico a economico.alpee@gijon.es"&gt;.
+&lt;/a&gt;</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>&lt;a href="mailto:economico.alpee@gijon.es" title="Enviar correo electrónico a economico.alpee@gijon.es"&gt;	&lt;/a&gt;C/ Avelino González Mallada, 27 - Planta Primera - 33204&lt;a href="mailto:economico.alpee@gijon.es" title="Enviar correo electrónico a economico.alpee@gijon.es"&gt;
+&lt;/a&gt;</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location"></localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">&lt;a href="mailto:economico.alpee@gijon.es" title="Enviar correo electrónico a economico.alpee@gijon.es"&gt;	&lt;/a&gt;C/ Avelino González Mallada, 27 - Planta Primera - 33204&lt;a href="mailto:economico.alpee@gijon.es" title="Enviar correo electrónico a economico.alpee@gijon.es"&gt;
+&lt;/a&gt;</direccion>
+  <categorias>
+    <categoria id="98" rdfa-property="http://purl.org/dc/terms/subject">Servicios Municipales</categoria>
+    <categoria id="12" rdfa-property="http://purl.org/dc/terms/subject">2010</categoria>
+    <categoria id="44" rdfa-property="http://purl.org/dc/terms/subject">Gijón</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="92" rdfa-property="http://purl.org/dc/terms/subject">Administración</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/183-centro-municipal-integrado-ateneo-de-la-calzada" tipo="Edificios Municipales,Centros de Formación,Cajeros Ciudadanos,Servicio Atención al Ciudadano,Servicios Municipales,Sala de Exposiciones,Mediatecas,Zona Wifi,Cajeros de transporte emtusa,Servicios Sociales,Bibliotecas,Teatro,Aparcamientos,Establecimientos de Recarga del Monedero Transporte,Lineas de autobuses urbanos,Servicios municipales,Teatros,Administración,Comunicaciones,Cultura y Ocio,Educación,Movilidad,Turismo">
+  <url>http://www.gijon.es/directorios/show/183-centro-municipal-integrado-ateneo-de-la-calzada</url>
+  <identificador>183</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2015-03-24 16:45:48 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f6/6115/250x333_v1_CM-ateneo.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Centro Municipal Integrado Ateneo de La Calzada</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 181 403</telefono>
+  <fax>985 301 198</fax>
+  <correo-electronico>cmicalzada@gijon.es</correo-electronico>
+  <web>http://www.gijon.es</web>
+  <horario>Lunes a sábado, de 8:00 a 22:00 h. Cajero: 24h</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">&lt;p&gt;Este Centro ha sido el último en incorporarse a la red de centros municipales integrados, pese a ser el equipamiento más veterano. Su origen, muy lejano en el tiempo y en la historia del barrio de La Calzada, lo liga a iniciativas vecinales (que aún disponen de espacios en el Centro) y a usos municipales puramente culturales. Una reciente reforma lo ha convertido, desde el año 2007, en un centro municipal integrado con el mismo rango de servicios y organización que el resto.&lt;/p&gt;&lt;p&gt;Dispone de: oficina de atención al ciudadano, Servicios Sociales, salón de actos (aforo de 270 personas), sala de exposiciones, biblioteca, mediateca (14 puestos), salas polivalentes, aulas, talleres especializados y cajero ciudadano.&lt;/p&gt;&lt;p&gt;&lt;img src="/data/images/f0/f4/42478/266x400_v1_LaCalzadaexterior.JPG" alt="exterior la calzada" class="image-izquierda magnify" height="400" width="266" width="266" height="400"/&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;img src="/data/images/f0/f4/42482/400x300_v1_Bibliotecainfantil.JPG" alt="ateneop biblio" class="image-derecha magnify" height="300" width="400" width="400" height="300"/&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;a href="http://issuu.com/agendasdeloscentrosintegrados/docs/red_de_centros_municipales_integrad" title="Ir a http://issuu.com/agendasdeloscentrosintegrados/docs/red_de_centros_municipales_integrad" rel="external"&gt;&lt;br/&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;a href="http://issuu.com/agendasdeloscentrosintegrados/docs/red_de_centros_municipales_integrad" title="Ir a http://issuu.com/agendasdeloscentrosintegrados/docs/red_de_centros_municipales_integrad" rel="external"&gt;Espacios en el centro municipal integrado Ateneo de La Calzada (ver espacios).&lt;/a&gt;&lt;/span&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style="text-align: center;"&gt;Espacio&lt;br/&gt;&lt;/th&gt;&lt;th style="text-align: center;"&gt;Puestos y Aforo&lt;br/&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Salón de actos&lt;br/&gt;&lt;/td&gt;&lt;td style="text-align: right;"&gt;270&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="vertical-align: top;"&gt;Sala polivalente&lt;br/&gt;&lt;/td&gt;&lt;td style="vertical-align: top; text-align: right;"&gt;60&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sala de exposiciones&lt;br/&gt;&lt;/td&gt;&lt;td style="text-align: right;"&gt;75 m2&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Biblioteca&lt;br/&gt;&lt;/td&gt;&lt;td style="text-align: right;"&gt;Adultos:28&lt;br/&gt;Infantil:39&lt;br/&gt;Lectura de prensa:27&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="vertical-align: top;"&gt;Sala de Estudio&lt;br/&gt;(dos espacios)&lt;/td&gt;&lt;td style="vertical-align: top; text-align: right;"&gt;45 y 30&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="vertical-align: top;"&gt;Mediateca&lt;/td&gt;&lt;td style="vertical-align: top; text-align: right;"&gt;16&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Aula 2.2.&lt;br/&gt;&lt;/td&gt;&lt;td style="text-align: right;"&gt;25&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="vertical-align: top;"&gt;Aula 3.4.&lt;/td&gt;&lt;td style="vertical-align: top; text-align: right;"&gt;30&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="vertical-align: top;"&gt;Aula 4.2.&lt;/td&gt;&lt;td style="vertical-align: top; text-align: right;"&gt;18&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="vertical-align: top;"&gt;Aula 5.2&lt;br/&gt;&lt;/td&gt;&lt;td style="vertical-align: top; text-align: right;"&gt;25&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="vertical-align: top;"&gt;Aula 5.5                               &lt;br/&gt;&lt;/td&gt;&lt;td style="vertical-align: top; text-align: right;"&gt;                                   40&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="vertical-align: top;"&gt;Aula 5.6&lt;br/&gt;&lt;/td&gt;&lt;td style="vertical-align: top; text-align: right;"&gt;35&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="vertical-align: top;"&gt;Aula Música        &lt;br/&gt;&lt;/td&gt;&lt;td style="vertical-align: top; text-align: right;"&gt;25&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="vertical-align: top;"&gt;Aula Teatro&lt;/td&gt;&lt;td style="vertical-align: top; text-align: right;"&gt;25&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="vertical-align: top;"&gt;Aula fotografía&lt;/td&gt;&lt;td style="vertical-align: top; text-align: right;"&gt;25&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="vertical-align: top;"&gt;Aula-Reuniones&lt;/td&gt;&lt;td style="vertical-align: top; text-align: right;"&gt;30&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="vertical-align: top;"&gt;Taller de Restauración&lt;/td&gt;&lt;td style="vertical-align: top; text-align: right;"&gt;25&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="vertical-align: top;"&gt;Taller de Dibujo&lt;/td&gt;&lt;td style="vertical-align: top; text-align: right;"&gt;25&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="vertical-align: top;"&gt;Taller Pintura&lt;br/&gt;&lt;/td&gt;&lt;td style="vertical-align: top; text-align: right;"&gt;25&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="vertical-align: top;"&gt;Taller madera&lt;br/&gt;&lt;/td&gt;&lt;td style="vertical-align: top; text-align: right;"&gt;25&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="vertical-align: top;"&gt;Taller cocina&lt;/td&gt;&lt;td style="vertical-align: top; text-align: right;"&gt;25&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Grupo montaña&lt;br/&gt;&lt;/td&gt;&lt;td style="text-align: right;"&gt;18&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Grupo filatélico&lt;br/&gt;&lt;/td&gt;&lt;td style="text-align: right;"&gt;18&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;G. Industrial C.F.&lt;br/&gt;&lt;/td&gt;&lt;td style="text-align: right;"&gt;18&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Casa Deporte&lt;/td&gt;&lt;td style="text-align: right;"&gt;25&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Club Alfil&lt;br/&gt;&lt;/td&gt;&lt;td style="text-align: right;"&gt;25&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Asociación de vecinos &lt;br/&gt;(dos espacios)&lt;/td&gt;&lt;td style="text-align: right;"&gt;30 y 18&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</descripcion>
+  <direccion>C/Ateneo Obrero de La Calzada, 1</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.539353 -5.694611</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">C/Ateneo Obrero de La Calzada, 1</direccion>
+  <categorias>
+    <categoria id="93" rdfa-property="http://purl.org/dc/terms/subject">Edificios Municipales</categoria>
+    <categoria id="401" rdfa-property="http://purl.org/dc/terms/subject">Centros de Formación</categoria>
+    <categoria id="94" rdfa-property="http://purl.org/dc/terms/subject">Cajeros Ciudadanos</categoria>
+    <categoria id="97" rdfa-property="http://purl.org/dc/terms/subject">Servicio Atención al Ciudadano</categoria>
+    <categoria id="98" rdfa-property="http://purl.org/dc/terms/subject">Servicios Municipales</categoria>
+    <categoria id="201" rdfa-property="http://purl.org/dc/terms/subject">Sala de Exposiciones</categoria>
+    <categoria id="200" rdfa-property="http://purl.org/dc/terms/subject">Mediatecas</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="512" rdfa-property="http://purl.org/dc/terms/subject">Cajeros de transporte emtusa</categoria>
+    <categoria id="99" rdfa-property="http://purl.org/dc/terms/subject">Servicios Sociales</categoria>
+    <categoria id="186" rdfa-property="http://purl.org/dc/terms/subject">Bibliotecas</categoria>
+    <categoria id="190" rdfa-property="http://purl.org/dc/terms/subject">Teatro</categoria>
+    <categoria id="439" rdfa-property="http://purl.org/dc/terms/subject">Aparcamientos</categoria>
+    <categoria id="440" rdfa-property="http://purl.org/dc/terms/subject">Establecimientos de Recarga del Monedero Transporte</categoria>
+    <categoria id="444" rdfa-property="http://purl.org/dc/terms/subject">Lineas de autobuses urbanos</categoria>
+    <categoria id="927" rdfa-property="http://purl.org/dc/terms/subject">Servicios municipales</categoria>
+    <categoria id="938" rdfa-property="http://purl.org/dc/terms/subject">Teatros</categoria>
+    <categoria id="92" rdfa-property="http://purl.org/dc/terms/subject">Administración</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="185" rdfa-property="http://purl.org/dc/terms/subject">Cultura y Ocio</categoria>
+    <categoria id="2" rdfa-property="http://purl.org/dc/terms/subject">Educación</categoria>
+    <categoria id="198" rdfa-property="http://purl.org/dc/terms/subject">Movilidad</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/180-alpee-agencia-local-de-promocion-economica-y-empleo" tipo="Edificios Municipales,Zona Wifi,Administración,Comunicaciones">
+  <url>http://www.gijon.es/directorios/show/180-alpee-agencia-local-de-promocion-economica-y-empleo</url>
+  <identificador>180</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:02:24 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f6/6096/250x250_v1_agenciaLocalEmpleo.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">ALPEE-Agencia Local de Promoción Económica y Empleo</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 181 555</telefono>
+  <fax>985 181 562</fax>
+  <correo-electronico>agencialocal@gijon.es</correo-electronico>
+  <web>http://empleo.gijon.es</web>
+  <horario>Lunes a Viernes: 9:00-14:00h.</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>C/ Avelino González Mallada, 27 - 33204 - Gijón</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location"></localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">C/ Avelino González Mallada, 27 - 33204 - Gijón</direccion>
+  <categorias>
+    <categoria id="93" rdfa-property="http://purl.org/dc/terms/subject">Edificios Municipales</categoria>
+    <categoria id="12" rdfa-property="http://purl.org/dc/terms/subject">2010</categoria>
+    <categoria id="44" rdfa-property="http://purl.org/dc/terms/subject">Gijón</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="92" rdfa-property="http://purl.org/dc/terms/subject">Administración</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/165-edificio-administrativo-antiguo-hotel-madrid" tipo="Edificios Municipales,Zona Wifi">
+  <url>http://www.gijon.es/directorios/show/165-edificio-administrativo-antiguo-hotel-madrid</url>
+  <identificador>165</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:02:23 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f4/4896/113x150_v1_H.madrid.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Edificio Administrativo Antiguo Hotel Madrid</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Plaza Mayor, 2, 33201</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.544929 -5.662468</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Plaza Mayor, 2, 33201 Gijón (Asturias)</direccion>
+  <categorias>
+    <categoria id="93" rdfa-property="http://purl.org/dc/terms/subject">Edificios Municipales</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="145" rdfa-property="http://purl.org/dc/terms/subject">Gobierno</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/164-edificio-administrativo-antigua-pescaderia-municipal" tipo="Edificios Municipales,Cajeros Ciudadanos,Servicios Municipales,Monumentos,Zona Wifi,Establecimientos de Recarga del Monedero Transporte,Cajeros de transporte emtusa,Administración,Comunicaciones,Cultura y Ocio,Movilidad">
+  <url>http://www.gijon.es/directorios/show/164-edificio-administrativo-antigua-pescaderia-municipal</url>
+  <identificador>164</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2015-05-20 14:16:47 +0200</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f4/4895/150x113_v1_pescaderia.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Edificio Administrativo Antigua Pescadería Municipal</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">010. Si llama desde fuera del municipio de Gijón: 984 847 970.</telefono>
+  <fax>985 181 182</fax>
+  <correo-electronico></correo-electronico>
+  <web>http://www.gijon.es</web>
+  <horario>Lunes a Viernes de 8:30 a 17:00 horas, ininterrumpidamente.&lt;br/&gt;Sábados de 9:00-13:00 horas. &lt;br/&gt;Julio y agosto: De 08:30 a 14:00 horas, de lunes a viernes; y sábados de 09:00 a 13:00 horas.</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">Autor:Miguel García de la Cruz.&lt;br/&gt;Contruida entre 1928-30 para sustituir a otra (Mercado del Adobo) de principios del s. XIX.&lt;br/&gt;De planta rectangular y un solo piso, tiene fachada abierta a cuatro calles, con la principal orientada hacia el Muro de San Lorenzo.&lt;br/&gt;Las fachadas se configuran a través de una sucesión de vanos enmarcados por arcos rebajados; pone el remate a las mismas una ancha y poco saliente cornisa, coronada por bolas escurialenses apoyadas en pedestales. Las entradas principales se desarrollan en forma de pórticos a la manera renacentista, con arcos de medio punto apoyados en columnas de estilo dórico y un coronamiento a base de buenos frontones elevados sobre la cornisa.</descripcion>
+  <direccion>C/ Cabrales, nº2</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.544746 -5.662076</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">C/ Cabrales, nº2</direccion>
+  <categorias>
+    <categoria id="93" rdfa-property="http://purl.org/dc/terms/subject">Edificios Municipales</categoria>
+    <categoria id="94" rdfa-property="http://purl.org/dc/terms/subject">Cajeros Ciudadanos</categoria>
+    <categoria id="98" rdfa-property="http://purl.org/dc/terms/subject">Servicios Municipales</categoria>
+    <categoria id="189" rdfa-property="http://purl.org/dc/terms/subject">Monumentos</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="145" rdfa-property="http://purl.org/dc/terms/subject">Gobierno</categoria>
+    <categoria id="440" rdfa-property="http://purl.org/dc/terms/subject">Establecimientos de Recarga del Monedero Transporte</categoria>
+    <categoria id="512" rdfa-property="http://purl.org/dc/terms/subject">Cajeros de transporte emtusa</categoria>
+    <categoria id="92" rdfa-property="http://purl.org/dc/terms/subject">Administración</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="185" rdfa-property="http://purl.org/dc/terms/subject">Cultura y Ocio</categoria>
+    <categoria id="198" rdfa-property="http://purl.org/dc/terms/subject">Movilidad</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/93-biblioteca-municipal-de-contrueces" tipo="Bibliotecas,Edificios Municipales,Cajeros Ciudadanos,Mediatecas,Zona Wifi,Administración,Comunicaciones,Cultura y Ocio">
+  <url>http://www.gijon.es/directorios/show/93-biblioteca-municipal-de-contrueces</url>
+  <identificador>93</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:02:22 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f3/3118/250x188_v1_CM-contrueces.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Biblioteca Municipal de Contrueces</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 185 114</telefono>
+  <fax/>
+  <correo-electronico>bibliotecacontrueces@gijon.es</correo-electronico>
+  <web>http://bibliotecas.gijon.es/</web>
+  <horario>Lunes a viernes de 9.00 a 20.00 h. Julio y agosto de 9.00 a 15.00 h.</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">&lt;p&gt;&lt;strong&gt;Biblioteca:&lt;/strong&gt; Sala de lectura. Sección adultos (18 puestos). Prensa y revistas (18 puestos). Sección infantil y juvenil (18 puestos). Bebeteca. Sección Asturiana. Centros de interés: Cómic. Préstamo de libros, discos, revistas, cd-rom, vídeo y dvd. Préstamo interbibliotecario. Información bibliográfica y de referencia. Actividades de animación a la lectura: Bebé cuentos, La hora de los cuentos, Club de lectura, Programa de formación en el uso de la biblioteca para escolares. Consulta Catálogo Colectivo de la Red de Bibliotecas del Principado de Asturias. Consulta Red Municipal de Bibliotecas&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mediateca:&lt;/strong&gt; 13 puestos. Acceso gratuito a internet y cursos de formación digital&lt;/p&gt;
+&lt;p&gt;2 &lt;strong&gt;aulas&lt;/strong&gt;polivalentes. Información, asesoramiento y recursos para las asociaciones y colectivos del barrio. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cajero ciudadano&lt;/strong&gt;&lt;/p&gt;</descripcion>
+  <direccion>C/Río Nalón, 2 C.P. 33210</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.521944 -5.664088</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">C/Río Nalón, 2 C.P. 33210</direccion>
+  <categorias>
+    <categoria id="186" rdfa-property="http://purl.org/dc/terms/subject">Bibliotecas</categoria>
+    <categoria id="164" rdfa-property="http://purl.org/dc/terms/subject">Bibliotecas</categoria>
+    <categoria id="12" rdfa-property="http://purl.org/dc/terms/subject">2010</categoria>
+    <categoria id="44" rdfa-property="http://purl.org/dc/terms/subject">Gijón</categoria>
+    <categoria id="93" rdfa-property="http://purl.org/dc/terms/subject">Edificios Municipales</categoria>
+    <categoria id="94" rdfa-property="http://purl.org/dc/terms/subject">Cajeros Ciudadanos</categoria>
+    <categoria id="200" rdfa-property="http://purl.org/dc/terms/subject">Mediatecas</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="92" rdfa-property="http://purl.org/dc/terms/subject">Administración</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="185" rdfa-property="http://purl.org/dc/terms/subject">Cultura y Ocio</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/92-biblioteca-de-el-llano" tipo="Bibliotecas,Servicios Municipales,Mediatecas,Zona Wifi,Administración,Comunicaciones,Cultura y Ocio">
+  <url>http://www.gijon.es/directorios/show/92-biblioteca-de-el-llano</url>
+  <identificador>92</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:02:22 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f4/46634/3072x2304_v1_BiblioLlano.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Biblioteca de El Llano</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 185 248</telefono>
+  <fax/>
+  <correo-electronico>&lt;a title="Ir a bibliotecallano@gijon.es " href="http://bibliotecallano@gijon.es"&gt;bibliotecallano@gijon.es&lt;/a&gt;</correo-electronico>
+  <web>http://bibliotecas.gijon.es</web>
+  <horario>Lunes a sábado de 9.00 a 20.00 h</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">Ofrece diversos servicios y dispone de diferentes equipamientos tales como:&lt;br/&gt;
+&lt;ul&gt;
+&lt;li&gt;Sala de estudio. Con capacidad para 120 personas 
+&lt;/li&gt;&lt;li&gt;Sala de lectura 
+&lt;/li&gt;&lt;li&gt;Sección adultos 
+&lt;/li&gt;&lt;li&gt;Sección infantil y juvenil 
+&lt;/li&gt;&lt;li&gt;Biblioteca para padres y madres 
+&lt;/li&gt;&lt;li&gt;Sección Asturiana 
+&lt;/li&gt;&lt;li&gt;Centros de interés: Oposiciones y empleo, Manualidades, Biblioteca de Padres, Letra Grande. Selectividad, Idiomas, Librodisco, Autoayuda
+&lt;/li&gt;&lt;li&gt;Prensa y revistas.  
+&lt;/li&gt;&lt;li&gt;Préstamo de libros, discos, revistas, cd-rom, vídeo y dvd&lt;br/&gt;
+&lt;/li&gt;&lt;li&gt;Préstamo interbibliotecario 
+&lt;/li&gt;&lt;li&gt;Información bibliográfica y de referencia 
+&lt;/li&gt;&lt;li&gt;Actividades de animación a la lectura: Bebé-cuentos, La hora de los cuentos, Expocuentos, Club de Lectura, Taller de Creación Literaria y Programa de Formación en el Uso de la Biblioteca para Escolares (cita previa concertada) 
+&lt;/li&gt;&lt;li&gt;Consulta Catálogo Colectivo de la Red de Bibliotecas del Principado de Asturias 
+&lt;/li&gt;&lt;li&gt;Consulta Red Municipal de Bibliotecas 
+&lt;/li&gt;&lt;li&gt;Mediateca (16 puestos): acceso gratuito a Internet y cursos de formación digital&lt;/li&gt;&lt;/ul&gt;</descripcion>
+  <direccion>c/Río de Oro, 37 - 33209</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.527246 -5.663562</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Centro Municipal Integrado El Llano - c/Río de Oro, 37 - 33209</direccion>
+  <categorias>
+    <categoria id="186" rdfa-property="http://purl.org/dc/terms/subject">Bibliotecas</categoria>
+    <categoria id="164" rdfa-property="http://purl.org/dc/terms/subject">Bibliotecas</categoria>
+    <categoria id="98" rdfa-property="http://purl.org/dc/terms/subject">Servicios Municipales</categoria>
+    <categoria id="200" rdfa-property="http://purl.org/dc/terms/subject">Mediatecas</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="92" rdfa-property="http://purl.org/dc/terms/subject">Administración</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="185" rdfa-property="http://purl.org/dc/terms/subject">Cultura y Ocio</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/80-casa-consistorial" tipo="Edificios Municipales,Zona Wifi,Administración,Comunicaciones">
+  <url>http://www.gijon.es/directorios/show/80-casa-consistorial</url>
+  <identificador>80</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2015-05-12 13:12:51 +0200</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f2/2920/150x113_v1_consitorial.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Casa Consistorial</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 181 111</telefono>
+  <fax>985 181 182</fax>
+  <correo-electronico></correo-electronico>
+  <web>http://www.gijon.es/</web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">Autor:Andrés Coello realizó el proyecto y Luis Céspedes, primero, y 
+Lucas Mª Palacio dirigieron las obras con algunas modificaciones sobre 
+dicho proyecto.&lt;br/&gt;Fecha: 1861-65.&lt;br/&gt;Se debe a un proyecto del 
+arquitecto Andrés Coello aunque con algunas modificaciones de los 
+técnicos que dirigieron las obras, Luis Céspedes, primero, y Lucas Mª 
+Palacio, después. Es un bloque cúbico de tres plantas situado en una 
+plaza porticada inconclusa por una de sus crujías. La primera planta 
+tiene un amplio balcón de balaustrada y cuatro amplias ventanas.&lt;br/&gt;La 
+segunda planta no muestra separación con la anterior y ambas están 
+recorridas por dobles pilastras con capiteles compuestos. Está rematada 
+por una cornisa, por encima de la cual la recorre una balaustrada, 
+rematada por un frontón semicircular donde se encuentra el reloj y una 
+torreta con el escudo de la ciudad. De carácter historicista, remarcado 
+por la plaza porticada donde se localiza, ha sido remodelado en el año 
+2002.</descripcion>
+  <direccion/>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.545041 -5.662098</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address"></direccion>
+  <categorias>
+    <categoria id="93" rdfa-property="http://purl.org/dc/terms/subject">Edificios Municipales</categoria>
+    <categoria id="143" rdfa-property="http://purl.org/dc/terms/subject">Gijón en el mundo</categoria>
+    <categoria id="44" rdfa-property="http://purl.org/dc/terms/subject">Gijón</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="92" rdfa-property="http://purl.org/dc/terms/subject">Administración</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/10-centro-municipal-integrado-de-gijon-sur" tipo="Edificios Municipales,Cajeros Ciudadanos,Servicio Atención al Ciudadano,Servicios Municipales,Servicios Sociales,Bibliotecas,Teatro,Sala de Exposiciones,Complejos Deportivos,Pabellones,Piscinas Municipales,Pistas Polideportivas,Servicios municipales,Centros culturales,Ludotecas,Zona Wifi,Administración,Comunicaciones,Cultura y Ocio,Deporte,Turismo">
+  <url>http://www.gijon.es/directorios/show/10-centro-municipal-integrado-de-gijon-sur</url>
+  <identificador>10</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2015-10-28 11:41:17 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f2/2545/250x188_v1_CMI-gijonsur.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Centro Municipal Integrado de Gijón-Sur</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">+ 34 985 181 640</telefono>
+  <fax>&lt;strong&gt;&lt;/strong&gt;+ 34 985 181 639</fax>
+  <correo-electronico>cmigijonsur@gijon.es</correo-electronico>
+  <web>http://www.gijon.es</web>
+  <horario>De 8:00 a 22:00 de lunes a sábado. Domingo de 8:00 a 15:00.</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">&lt;p style="text-align: justify;"&gt;El nacimiento de este centro integrado supuso dotar a la zona Sur de un conjunto de equipamientos que demandaba por su gran crecimiento urbanístico y rejuvenecimiento demográfico. Su arquitectura demuestra a las claras la noción de integración, pues comparte, en el mismo edificio, usos administrativos, deportivos (con pabellón y piscina) y socioculturales, en un gran complejo cívico que es ya una referencia para el barrio y, en algunos servicios, para toda la ciudad. Nuevamente la idea de coordinar y acercar a cualquier residencia todos los servicios descentralizados por el ayuntamiento, visibles en una destacada arquitectura&lt;/p&gt;&lt;p style="text-align: justify;"&gt;Dispone de: oficina de atención al ciudadano, concejalía de distrito, Servicios Sociales, biblioteca, Mediateca (12 puestos), sala de estudio (60 puestos), salón de actos, aulas, salas polivalentes, sala de exposiciones, pabellón deportivo, piscina, sauna, gimnasio, canchas de squash y cajero ciudadano&lt;/p&gt;&lt;p style="text-align: justify;" align="center"&gt;&lt;img src="/data/images/f0/f4/42494/640x407_v1_GijonSurteatro.JPG" alt="suteatro" class="nicedit_sin-alinear magnify" height="407" width="640" width="640" height="407"/&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;a href="http://issuu.com/agendasdeloscentrosintegrados/docs/red_de_centros_municipales_integrad" title="Ir a http://issuu.com/agendasdeloscentrosintegrados/docs/red_de_centros_municipales_integrad" rel="external"&gt;Espacios del Centro Municipal Integrado Gijón-Sur (ver espacios).&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;&lt;/p&gt;&lt;div style="text-align: center;"&gt;&lt;br/&gt;&lt;/div&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style="text-align: center;"&gt;Espacio&lt;br/&gt;&lt;/th&gt;&lt;th style="text-align: center;"&gt;Puestos y aforo&lt;br/&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Salón de actos&lt;br/&gt;&lt;/td&gt;&lt;td style="text-align: right;"&gt;350&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Aulas 1 a 5&lt;br/&gt;&lt;/td&gt;&lt;td style="text-align: right;"&gt;20&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Aula 6/7&lt;br/&gt;&lt;/td&gt;&lt;td style="text-align: right;"&gt;70&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sala de estudio&lt;br/&gt;&lt;/td&gt;&lt;td style="text-align: right;"&gt;60&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Biblioteca&lt;br/&gt;&lt;/td&gt;&lt;td style="text-align: right;"&gt;Adultos: 25&lt;br/&gt;Infantil: 25&lt;br/&gt;Lectura de prensa: 32&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Mediateca&lt;br/&gt;&lt;/td&gt;&lt;td style="text-align: right;"&gt;12&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="vertical-align: top;"&gt;Sala de exposiciones&lt;br/&gt;&lt;/td&gt;&lt;td style="vertical-align: top; text-align: right;"&gt;180 m2&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Piscina&lt;br/&gt;&lt;/td&gt;&lt;td style="text-align: right;"&gt;Vaso grande: 104 usuarios máximo.&lt;br/&gt;Vaso pequeño: 25 usuarios máximo.&lt;br/&gt;No hay graderío.&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Polideportivo&lt;br/&gt;&lt;/td&gt;&lt;td style="text-align: right;"&gt;Grada: 300.&lt;br/&gt;Pista: en caso de eventos en pista hasta 700.&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="vertical-align: top;"&gt;Gimnasio&lt;br/&gt;&lt;/td&gt;&lt;td style="vertical-align: top; text-align: right;"&gt;26&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="vertical-align: top;"&gt;Sauna&lt;br/&gt;&lt;/td&gt;&lt;td style="vertical-align: top; text-align: right;"&gt;4&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="vertical-align: top;"&gt;Canchas de Squash&lt;br/&gt;&lt;/td&gt;&lt;td style="vertical-align: top; text-align: right;"&gt;4 (2 pistas)&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</descripcion>
+  <direccion>C/ Ramón Areces, 7.</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.524769 -5.678161</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">C/ Ramón Areces, 7.</direccion>
+  <categorias>
+    <categoria id="93" rdfa-property="http://purl.org/dc/terms/subject">Edificios Municipales</categoria>
+    <categoria id="94" rdfa-property="http://purl.org/dc/terms/subject">Cajeros Ciudadanos</categoria>
+    <categoria id="97" rdfa-property="http://purl.org/dc/terms/subject">Servicio Atención al Ciudadano</categoria>
+    <categoria id="98" rdfa-property="http://purl.org/dc/terms/subject">Servicios Municipales</categoria>
+    <categoria id="99" rdfa-property="http://purl.org/dc/terms/subject">Servicios Sociales</categoria>
+    <categoria id="186" rdfa-property="http://purl.org/dc/terms/subject">Bibliotecas</categoria>
+    <categoria id="190" rdfa-property="http://purl.org/dc/terms/subject">Teatro</categoria>
+    <categoria id="201" rdfa-property="http://purl.org/dc/terms/subject">Sala de Exposiciones</categoria>
+    <categoria id="396" rdfa-property="http://purl.org/dc/terms/subject">Complejos Deportivos</categoria>
+    <categoria id="398" rdfa-property="http://purl.org/dc/terms/subject">Pabellones</categoria>
+    <categoria id="399" rdfa-property="http://purl.org/dc/terms/subject">Piscinas Municipales</categoria>
+    <categoria id="400" rdfa-property="http://purl.org/dc/terms/subject">Pistas Polideportivas</categoria>
+    <categoria id="927" rdfa-property="http://purl.org/dc/terms/subject">Servicios municipales</categoria>
+    <categoria id="932" rdfa-property="http://purl.org/dc/terms/subject">Centros culturales</categoria>
+    <categoria id="390" rdfa-property="http://purl.org/dc/terms/subject">Ludotecas</categoria>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="1233" rdfa-property="http://purl.org/dc/terms/subject">Otras salas de congresos</categoria>
+    <categoria id="92" rdfa-property="http://purl.org/dc/terms/subject">Administración</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="185" rdfa-property="http://purl.org/dc/terms/subject">Cultura y Ocio</categoria>
+    <categoria id="192" rdfa-property="http://purl.org/dc/terms/subject">Deporte</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+</directorios>
