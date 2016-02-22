@@ -6,6 +6,6 @@
 
 3. Introduce un identificador, si existe muestre toda la información del directorio, si no, que muestre un mensaje de error.
 
-4. Introduce un identificador, y si existe te mostrará todos los nombres de las categorias, a continuación te pedirá por entrada de teclado que introduzcas una de las categorías que te muestra y te devolverá la información del atributo id.
+4. Pide una subcadena y si coincide con el nombre de una de las categorias de un directorio, muestre el nombre de dichos directorios
 
 5. Muestra solamente los nombres de los directorios en los que el tipo de atributo sea igual a "Zona Wifi,Comunicaciones"
