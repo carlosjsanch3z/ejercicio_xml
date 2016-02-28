@@ -20,4 +20,6 @@ for d in directorio:
 		categoria = c.findall("categoria")
 		for ca in categoria:
 			if ca.text.startswith(var):
-				print ca.text
+				padre = ca.getparent().getparent()
+				nombre = padre.findtext("nombre")
+				print nombre
