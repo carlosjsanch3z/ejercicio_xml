@@ -12,12 +12,12 @@ raiz = doc.getroot()
 
 directorio = raiz.findall("directorio")
 
+var = raw_input("Subcadena: ")
 
 for d in directorio:
-	nombres = d.findall("nombre")
 	categorias = d.findall("categorias")
-	print "--------------------------"
 	for c in categorias:
 		categoria = c.findall("categoria")
 		for ca in categoria:
-			print ca.text 
+			if ca.text.startswith(var):
+				print ca.text
