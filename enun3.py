@@ -9,17 +9,25 @@ doc = etree.parse("/home/charlie/Escritorio/GitHub/ejercicio_xml/zona-wifi.xml")
 
 raiz = doc.getroot()
 
+comodin = False
+
 identificador = raw_input("Introduce un identificador: ")
 
 directorio = raiz.findall("directorio")
 
-comodin = False
+
 
 for i in directorio:
 	ids = i.findall("identificador")
 	for o in ids:
-		print o.text
-'''
+		if identificador == o.text:
+			comodin = True
+			print "	Nombre: " + i.findtext("nombre")
+			print "	Telefono: " + i.findtext("telefono")
+			print "	Fax: " + i.findtext("fax")
+			print "	Correo electronico: " + i.findtext("correo-electronico")
+			print "	Horario: " + i.findtext("horario")
+			print "	Localización: " + i.findtext("localizacion")
+
 if comodin == False:
-	print "Error"
-'''
+	print "	Error: Identificador no encontrado."
