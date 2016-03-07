@@ -9,3 +9,6 @@
 4. Pide una subcadena y si coincide con el nombre de una de las categorias de un directorio, muestre el nombre de dichos directorios
 
 5. Muestra solamente los nombres de los directorios en los que el tipo de atributo sea igual a "Zona Wifi,Comunicaciones"
+
+6. Un programa que pida una categoria y genere un fichero html que muestre: el nombre
+, el horario y una img de la zona wifi.
