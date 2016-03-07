@@ -7,7 +7,7 @@
 
 from lxml import etree
 
-doc = etree.parse("/home/charlie/Escritorio/GitHub/ejercicio_xml/zona-wifi.xml")
+doc = etree.parse("zona-wifi.xml")
 
 raiz = doc.getroot()
 
